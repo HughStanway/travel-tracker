@@ -1,0 +1,19 @@
+metadata:
+  name: "travel-tracker"
+  versionScheme: "semver"
+
+build:
+  image: "node:20-alpine"
+  timeoutSeconds: 300
+  memory: "1g"
+
+steps:
+  setup: |
+    echo "Preparing Travel Tracker build..."
+  build: |
+    echo "Travel Tracker ready for container image build."
+
+artifacts:
+  - name: "travel-tracker"
+    type: "docker-image"
+    pattern: "Dockerfile"

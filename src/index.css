@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased selection:bg-teal-500/20 selection:text-teal-700 dark:selection:bg-teal-500/30 dark:selection:text-teal-300;
+  }
+}
+
+/* Custom Print Styles */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #111827 !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+  .page-break-after {
+    page-break-after: always;
+    break-after: page;
+  }
+
+  .avoid-break-inside {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+}

@@ -1,0 +1,1472 @@
+[
+  {
+    "id": "new-york",
+    "slug": "new-york",
+    "title": "New York",
+    "folder": "new-york",
+    "files": [
+      {
+        "filename": "dining-and-tips.md",
+        "relativePath": "new-york/dining-and-tips.md",
+        "title": "Food & Tips",
+        "rawContent": "# Food & Tips\n\n## Page 1: Must-Try Eats\n\n- Katz's Delicatessen: Legendary pastrami on rye in the Lower East Side.\n- Joe's Pizza: Classic New York slice in Greenwich Village (Carmine St).\n- Los Tacos No. 1: Authentic Tijuana-style tacos in Chelsea Market.\n- Levain Bakery: Famous giant warm chocolate chip cookies on Upper West Side.\n- Russ & Daughters: Classic Jewish bagels, lox, and babka.\n\n## Page 2: Travel & Transit Tips\n\n- Subway OMNY: Just tap your phone or contactless card at any subway turnstile.\n- Staten Island Ferry: Free 24/7 scenic boat ride with views of the Statue of Liberty.\n- Roosevelt Island Tram: Uses standard subway fare ($2.90) and offers great skyline views.\n",
+        "sections": [
+          {
+            "id": "section-2-page-1-must-try-eats",
+            "title": "Page 1: Must-Try Eats",
+            "items": [
+              {
+                "id": "new-york-dining-and-tips-1-katz-s-delicatessen",
+                "name": "Katz's Delicatessen",
+                "description": "Legendary pastrami on rye in the Lower East Side.",
+                "section": "Page 1: Must-Try Eats",
+                "file": "new-york/dining-and-tips.md",
+                "initialChecked": false,
+                "raw": "Katz's Delicatessen: Legendary pastrami on rye in the Lower East Side."
+              },
+              {
+                "id": "new-york-dining-and-tips-2-joe-s-pizza",
+                "name": "Joe's Pizza",
+                "description": "Classic New York slice in Greenwich Village (Carmine St).",
+                "section": "Page 1: Must-Try Eats",
+                "file": "new-york/dining-and-tips.md",
+                "initialChecked": false,
+                "raw": "Joe's Pizza: Classic New York slice in Greenwich Village (Carmine St)."
+              },
+              {
+                "id": "new-york-dining-and-tips-3-los-tacos-no-1",
+                "name": "Los Tacos No. 1",
+                "description": "Authentic Tijuana-style tacos in Chelsea Market.",
+                "section": "Page 1: Must-Try Eats",
+                "file": "new-york/dining-and-tips.md",
+                "initialChecked": false,
+                "raw": "Los Tacos No. 1: Authentic Tijuana-style tacos in Chelsea Market."
+              },
+              {
+                "id": "new-york-dining-and-tips-4-levain-bakery",
+                "name": "Levain Bakery",
+                "description": "Famous giant warm chocolate chip cookies on Upper West Side.",
+                "section": "Page 1: Must-Try Eats",
+                "file": "new-york/dining-and-tips.md",
+                "initialChecked": false,
+                "raw": "Levain Bakery: Famous giant warm chocolate chip cookies on Upper West Side."
+              },
+              {
+                "id": "new-york-dining-and-tips-5-russ-daughters",
+                "name": "Russ & Daughters",
+                "description": "Classic Jewish bagels, lox, and babka.",
+                "section": "Page 1: Must-Try Eats",
+                "file": "new-york/dining-and-tips.md",
+                "initialChecked": false,
+                "raw": "Russ & Daughters: Classic Jewish bagels, lox, and babka."
+              }
+            ]
+          },
+          {
+            "id": "section-3-page-2-travel-transit-tips",
+            "title": "Page 2: Travel & Transit Tips",
+            "items": [
+              {
+                "id": "new-york-dining-and-tips-6-subway-omny",
+                "name": "Subway OMNY",
+                "description": "Just tap your phone or contactless card at any subway turnstile.",
+                "section": "Page 2: Travel & Transit Tips",
+                "file": "new-york/dining-and-tips.md",
+                "initialChecked": false,
+                "raw": "Subway OMNY: Just tap your phone or contactless card at any subway turnstile."
+              },
+              {
+                "id": "new-york-dining-and-tips-7-staten-island-ferry",
+                "name": "Staten Island Ferry",
+                "description": "Free 24/7 scenic boat ride with views of the Statue of Liberty.",
+                "section": "Page 2: Travel & Transit Tips",
+                "file": "new-york/dining-and-tips.md",
+                "initialChecked": false,
+                "raw": "Staten Island Ferry: Free 24/7 scenic boat ride with views of the Statue of Liberty."
+              },
+              {
+                "id": "new-york-dining-and-tips-8-roosevelt-island-tram",
+                "name": "Roosevelt Island Tram",
+                "description": "Uses standard subway fare ($2.90) and offers great skyline views.",
+                "section": "Page 2: Travel & Transit Tips",
+                "file": "new-york/dining-and-tips.md",
+                "initialChecked": false,
+                "raw": "Roosevelt Island Tram: Uses standard subway fare ($2.90) and offers great skyline views."
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": "new-york-dining-and-tips-1-katz-s-delicatessen",
+            "name": "Katz's Delicatessen",
+            "description": "Legendary pastrami on rye in the Lower East Side.",
+            "section": "Page 1: Must-Try Eats",
+            "file": "new-york/dining-and-tips.md",
+            "initialChecked": false,
+            "raw": "Katz's Delicatessen: Legendary pastrami on rye in the Lower East Side."
+          },
+          {
+            "id": "new-york-dining-and-tips-2-joe-s-pizza",
+            "name": "Joe's Pizza",
+            "description": "Classic New York slice in Greenwich Village (Carmine St).",
+            "section": "Page 1: Must-Try Eats",
+            "file": "new-york/dining-and-tips.md",
+            "initialChecked": false,
+            "raw": "Joe's Pizza: Classic New York slice in Greenwich Village (Carmine St)."
+          },
+          {
+            "id": "new-york-dining-and-tips-3-los-tacos-no-1",
+            "name": "Los Tacos No. 1",
+            "description": "Authentic Tijuana-style tacos in Chelsea Market.",
+            "section": "Page 1: Must-Try Eats",
+            "file": "new-york/dining-and-tips.md",
+            "initialChecked": false,
+            "raw": "Los Tacos No. 1: Authentic Tijuana-style tacos in Chelsea Market."
+          },
+          {
+            "id": "new-york-dining-and-tips-4-levain-bakery",
+            "name": "Levain Bakery",
+            "description": "Famous giant warm chocolate chip cookies on Upper West Side.",
+            "section": "Page 1: Must-Try Eats",
+            "file": "new-york/dining-and-tips.md",
+            "initialChecked": false,
+            "raw": "Levain Bakery: Famous giant warm chocolate chip cookies on Upper West Side."
+          },
+          {
+            "id": "new-york-dining-and-tips-5-russ-daughters",
+            "name": "Russ & Daughters",
+            "description": "Classic Jewish bagels, lox, and babka.",
+            "section": "Page 1: Must-Try Eats",
+            "file": "new-york/dining-and-tips.md",
+            "initialChecked": false,
+            "raw": "Russ & Daughters: Classic Jewish bagels, lox, and babka."
+          },
+          {
+            "id": "new-york-dining-and-tips-6-subway-omny",
+            "name": "Subway OMNY",
+            "description": "Just tap your phone or contactless card at any subway turnstile.",
+            "section": "Page 2: Travel & Transit Tips",
+            "file": "new-york/dining-and-tips.md",
+            "initialChecked": false,
+            "raw": "Subway OMNY: Just tap your phone or contactless card at any subway turnstile."
+          },
+          {
+            "id": "new-york-dining-and-tips-7-staten-island-ferry",
+            "name": "Staten Island Ferry",
+            "description": "Free 24/7 scenic boat ride with views of the Statue of Liberty.",
+            "section": "Page 2: Travel & Transit Tips",
+            "file": "new-york/dining-and-tips.md",
+            "initialChecked": false,
+            "raw": "Staten Island Ferry: Free 24/7 scenic boat ride with views of the Statue of Liberty."
+          },
+          {
+            "id": "new-york-dining-and-tips-8-roosevelt-island-tram",
+            "name": "Roosevelt Island Tram",
+            "description": "Uses standard subway fare ($2.90) and offers great skyline views.",
+            "section": "Page 2: Travel & Transit Tips",
+            "file": "new-york/dining-and-tips.md",
+            "initialChecked": false,
+            "raw": "Roosevelt Island Tram: Uses standard subway fare ($2.90) and offers great skyline views."
+          }
+        ]
+      },
+      {
+        "filename": "new-york.md",
+        "relativePath": "new-york/new-york.md",
+        "title": "Activities",
+        "rawContent": "# Activities\n\n## Page 1: Lower Manhatten and Financial District\n\n- One World Trade Center: Landmark skyscraper near the 9/11 memorial.\n- 9/11 Memorial: Memorial of where the twin towers were.\n- The Oculus: Near the 9/11 memorial and one world trade center. Free and a monument with a good view.\n- Statue of Liberty: Take the Staten Island ferry (try not to go at a busy time). Not worth paying for a tour.\n- Charging Bull Statue: In the financial district.\n- Wall Street: See the stock exchange. There are a few old bars around here.\n\n## Page 2: Brooklyn Bridge, DUMBO and the Waterfront\n\n- Brooklyn Bridge: Walk over and get some photos. Starts from downtown Manhattan.\n- Manhatten Bridge: Bridge back across to Manhatten\n- Manhattan Bridge: Lots of good view points.\n- DUMBO: Famous viewing point of Manhattan Bridge (DUMBO Manhattan Bridge View).\n- Pebble Beach: Great views of Manhattan from Brooklyn.\n- Time Out Market Brooklyn: Has a free rooftop view over the city.\n- Brooklyn Flea Market: Market in Brooklyn, might be nice to go if we are over there. Happens on Saturdays during the day near DUMBO.\n\n## Page 3: Midtown Core and Landmarks\n\n- Times Square: We can walk from hotel. Need to see it at day and night.\n- Grand Central: Famous central station in New York.\n- Empire State Building: One of the most famous buildings in New York.\n- Fifth Avenue: Good for shopping (5th Ave).\n- Louis Vuitton Building: Shaped like a massive trunk. On 5th Avenue.\n- Chrysler Building: Another famous building to see.\n- St. Patrick's Cathedral: New York Cathedral.\n- Bryant Park: Smaller park near the Vanderbilt building.\n- Radio City: Famous music hall near the Rockefeller (Radio City Music Hall).\n- Broadway: Walk up the iconic street (Broadway Theatre).\n- Madison Square Garden (MSG): No events booked here but nice to see it in person.\n\n## Page 4: Chelsea, Hudson Yards and West Side\n\n- The High Line: Walkway built over an old train line that goes along the Hudson River side of Manhattan.\n- Little Island: Free viewing platform over the Hudson River.\n- The Vessel: Landmark statue. Not worth paying to go up it but good to see it. Near Hudson Yards area.\n\n## Page 5: Central Park and Upper Midtown\n\n- Central Park: Massive - could spend a while here walking around. Can hire bikes here to ride around.\n- Flatiron Building: Another famous building to see.\n\n## Page 6: Downtown Neighborhoods\n\n- Chinatown: Walk around, get dumplings and pork buns.\n- Little Italy: Famous Italian neighbourhood.\n\n# Page 7: East River and Islands\n\n- Roosevelt Island Tram: Cheap tram that goes along the river up Manhattan (Roosevelt Island Tramway).\n- Pier 35: View of both Brooklyn and Manhattan bridges from Manhattan side.\n",
+        "sections": [
+          {
+            "id": "section-2-page-1-lower-manhatten-and-financial-district",
+            "title": "Page 1: Lower Manhatten and Financial District",
+            "items": [
+              {
+                "id": "new-york-new-york-1-one-world-trade-center",
+                "name": "One World Trade Center",
+                "description": "Landmark skyscraper near the 9/11 memorial.",
+                "section": "Page 1: Lower Manhatten and Financial District",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "One World Trade Center: Landmark skyscraper near the 9/11 memorial."
+              },
+              {
+                "id": "new-york-new-york-2-9-11-memorial",
+                "name": "9/11 Memorial",
+                "description": "Memorial of where the twin towers were.",
+                "section": "Page 1: Lower Manhatten and Financial District",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "9/11 Memorial: Memorial of where the twin towers were."
+              },
+              {
+                "id": "new-york-new-york-3-the-oculus",
+                "name": "The Oculus",
+                "description": "Near the 9/11 memorial and one world trade center. Free and a monument with a good view.",
+                "section": "Page 1: Lower Manhatten and Financial District",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "The Oculus: Near the 9/11 memorial and one world trade center. Free and a monument with a good view."
+              },
+              {
+                "id": "new-york-new-york-4-statue-of-liberty",
+                "name": "Statue of Liberty",
+                "description": "Take the Staten Island ferry (try not to go at a busy time). Not worth paying for a tour.",
+                "section": "Page 1: Lower Manhatten and Financial District",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Statue of Liberty: Take the Staten Island ferry (try not to go at a busy time). Not worth paying for a tour."
+              },
+              {
+                "id": "new-york-new-york-5-charging-bull-statue",
+                "name": "Charging Bull Statue",
+                "description": "In the financial district.",
+                "section": "Page 1: Lower Manhatten and Financial District",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Charging Bull Statue: In the financial district."
+              },
+              {
+                "id": "new-york-new-york-6-wall-street",
+                "name": "Wall Street",
+                "description": "See the stock exchange. There are a few old bars around here.",
+                "section": "Page 1: Lower Manhatten and Financial District",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Wall Street: See the stock exchange. There are a few old bars around here."
+              }
+            ]
+          },
+          {
+            "id": "section-3-page-2-brooklyn-bridge-dumbo-and-the-waterfront",
+            "title": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+            "items": [
+              {
+                "id": "new-york-new-york-7-brooklyn-bridge",
+                "name": "Brooklyn Bridge",
+                "description": "Walk over and get some photos. Starts from downtown Manhattan.",
+                "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Brooklyn Bridge: Walk over and get some photos. Starts from downtown Manhattan."
+              },
+              {
+                "id": "new-york-new-york-8-manhatten-bridge",
+                "name": "Manhatten Bridge",
+                "description": "Bridge back across to Manhatten",
+                "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Manhatten Bridge: Bridge back across to Manhatten"
+              },
+              {
+                "id": "new-york-new-york-9-manhattan-bridge",
+                "name": "Manhattan Bridge",
+                "description": "Lots of good view points.",
+                "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Manhattan Bridge: Lots of good view points."
+              },
+              {
+                "id": "new-york-new-york-10-dumbo",
+                "name": "DUMBO",
+                "description": "Famous viewing point of Manhattan Bridge (DUMBO Manhattan Bridge View).",
+                "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "DUMBO: Famous viewing point of Manhattan Bridge (DUMBO Manhattan Bridge View)."
+              },
+              {
+                "id": "new-york-new-york-11-pebble-beach",
+                "name": "Pebble Beach",
+                "description": "Great views of Manhattan from Brooklyn.",
+                "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Pebble Beach: Great views of Manhattan from Brooklyn."
+              },
+              {
+                "id": "new-york-new-york-12-time-out-market-brooklyn",
+                "name": "Time Out Market Brooklyn",
+                "description": "Has a free rooftop view over the city.",
+                "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Time Out Market Brooklyn: Has a free rooftop view over the city."
+              },
+              {
+                "id": "new-york-new-york-13-brooklyn-flea-market",
+                "name": "Brooklyn Flea Market",
+                "description": "Market in Brooklyn, might be nice to go if we are over there. Happens on Saturdays during the day near DUMBO.",
+                "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Brooklyn Flea Market: Market in Brooklyn, might be nice to go if we are over there. Happens on Saturdays during the day near DUMBO."
+              }
+            ]
+          },
+          {
+            "id": "section-4-page-3-midtown-core-and-landmarks",
+            "title": "Page 3: Midtown Core and Landmarks",
+            "items": [
+              {
+                "id": "new-york-new-york-14-times-square",
+                "name": "Times Square",
+                "description": "We can walk from hotel. Need to see it at day and night.",
+                "section": "Page 3: Midtown Core and Landmarks",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Times Square: We can walk from hotel. Need to see it at day and night."
+              },
+              {
+                "id": "new-york-new-york-15-grand-central",
+                "name": "Grand Central",
+                "description": "Famous central station in New York.",
+                "section": "Page 3: Midtown Core and Landmarks",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Grand Central: Famous central station in New York."
+              },
+              {
+                "id": "new-york-new-york-16-empire-state-building",
+                "name": "Empire State Building",
+                "description": "One of the most famous buildings in New York.",
+                "section": "Page 3: Midtown Core and Landmarks",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Empire State Building: One of the most famous buildings in New York."
+              },
+              {
+                "id": "new-york-new-york-17-fifth-avenue",
+                "name": "Fifth Avenue",
+                "description": "Good for shopping (5th Ave).",
+                "section": "Page 3: Midtown Core and Landmarks",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Fifth Avenue: Good for shopping (5th Ave)."
+              },
+              {
+                "id": "new-york-new-york-18-louis-vuitton-building",
+                "name": "Louis Vuitton Building",
+                "description": "Shaped like a massive trunk. On 5th Avenue.",
+                "section": "Page 3: Midtown Core and Landmarks",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Louis Vuitton Building: Shaped like a massive trunk. On 5th Avenue."
+              },
+              {
+                "id": "new-york-new-york-19-chrysler-building",
+                "name": "Chrysler Building",
+                "description": "Another famous building to see.",
+                "section": "Page 3: Midtown Core and Landmarks",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Chrysler Building: Another famous building to see."
+              },
+              {
+                "id": "new-york-new-york-20-st-patrick-s-cathedral",
+                "name": "St. Patrick's Cathedral",
+                "description": "New York Cathedral.",
+                "section": "Page 3: Midtown Core and Landmarks",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "St. Patrick's Cathedral: New York Cathedral."
+              },
+              {
+                "id": "new-york-new-york-21-bryant-park",
+                "name": "Bryant Park",
+                "description": "Smaller park near the Vanderbilt building.",
+                "section": "Page 3: Midtown Core and Landmarks",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Bryant Park: Smaller park near the Vanderbilt building."
+              },
+              {
+                "id": "new-york-new-york-22-radio-city",
+                "name": "Radio City",
+                "description": "Famous music hall near the Rockefeller (Radio City Music Hall).",
+                "section": "Page 3: Midtown Core and Landmarks",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Radio City: Famous music hall near the Rockefeller (Radio City Music Hall)."
+              },
+              {
+                "id": "new-york-new-york-23-broadway",
+                "name": "Broadway",
+                "description": "Walk up the iconic street (Broadway Theatre).",
+                "section": "Page 3: Midtown Core and Landmarks",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Broadway: Walk up the iconic street (Broadway Theatre)."
+              },
+              {
+                "id": "new-york-new-york-24-madison-square-garden-msg-",
+                "name": "Madison Square Garden (MSG)",
+                "description": "No events booked here but nice to see it in person.",
+                "section": "Page 3: Midtown Core and Landmarks",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Madison Square Garden (MSG): No events booked here but nice to see it in person."
+              }
+            ]
+          },
+          {
+            "id": "section-5-page-4-chelsea-hudson-yards-and-west-side",
+            "title": "Page 4: Chelsea, Hudson Yards and West Side",
+            "items": [
+              {
+                "id": "new-york-new-york-25-the-high-line",
+                "name": "The High Line",
+                "description": "Walkway built over an old train line that goes along the Hudson River side of Manhattan.",
+                "section": "Page 4: Chelsea, Hudson Yards and West Side",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "The High Line: Walkway built over an old train line that goes along the Hudson River side of Manhattan."
+              },
+              {
+                "id": "new-york-new-york-26-little-island",
+                "name": "Little Island",
+                "description": "Free viewing platform over the Hudson River.",
+                "section": "Page 4: Chelsea, Hudson Yards and West Side",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Little Island: Free viewing platform over the Hudson River."
+              },
+              {
+                "id": "new-york-new-york-27-the-vessel",
+                "name": "The Vessel",
+                "description": "Landmark statue. Not worth paying to go up it but good to see it. Near Hudson Yards area.",
+                "section": "Page 4: Chelsea, Hudson Yards and West Side",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "The Vessel: Landmark statue. Not worth paying to go up it but good to see it. Near Hudson Yards area."
+              }
+            ]
+          },
+          {
+            "id": "section-6-page-5-central-park-and-upper-midtown",
+            "title": "Page 5: Central Park and Upper Midtown",
+            "items": [
+              {
+                "id": "new-york-new-york-28-central-park",
+                "name": "Central Park",
+                "description": "Massive - could spend a while here walking around. Can hire bikes here to ride around.",
+                "section": "Page 5: Central Park and Upper Midtown",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Central Park: Massive - could spend a while here walking around. Can hire bikes here to ride around."
+              },
+              {
+                "id": "new-york-new-york-29-flatiron-building",
+                "name": "Flatiron Building",
+                "description": "Another famous building to see.",
+                "section": "Page 5: Central Park and Upper Midtown",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Flatiron Building: Another famous building to see."
+              }
+            ]
+          },
+          {
+            "id": "section-7-page-6-downtown-neighborhoods",
+            "title": "Page 6: Downtown Neighborhoods",
+            "items": [
+              {
+                "id": "new-york-new-york-30-chinatown",
+                "name": "Chinatown",
+                "description": "Walk around, get dumplings and pork buns.",
+                "section": "Page 6: Downtown Neighborhoods",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Chinatown: Walk around, get dumplings and pork buns."
+              },
+              {
+                "id": "new-york-new-york-31-little-italy",
+                "name": "Little Italy",
+                "description": "Famous Italian neighbourhood.",
+                "section": "Page 6: Downtown Neighborhoods",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Little Italy: Famous Italian neighbourhood."
+              }
+            ]
+          },
+          {
+            "id": "section-8-page-7-east-river-and-islands",
+            "title": "Page 7: East River and Islands",
+            "items": [
+              {
+                "id": "new-york-new-york-32-roosevelt-island-tram",
+                "name": "Roosevelt Island Tram",
+                "description": "Cheap tram that goes along the river up Manhattan (Roosevelt Island Tramway).",
+                "section": "Page 7: East River and Islands",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Roosevelt Island Tram: Cheap tram that goes along the river up Manhattan (Roosevelt Island Tramway)."
+              },
+              {
+                "id": "new-york-new-york-33-pier-35",
+                "name": "Pier 35",
+                "description": "View of both Brooklyn and Manhattan bridges from Manhattan side.",
+                "section": "Page 7: East River and Islands",
+                "file": "new-york/new-york.md",
+                "initialChecked": false,
+                "raw": "Pier 35: View of both Brooklyn and Manhattan bridges from Manhattan side."
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": "new-york-new-york-1-one-world-trade-center",
+            "name": "One World Trade Center",
+            "description": "Landmark skyscraper near the 9/11 memorial.",
+            "section": "Page 1: Lower Manhatten and Financial District",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "One World Trade Center: Landmark skyscraper near the 9/11 memorial."
+          },
+          {
+            "id": "new-york-new-york-2-9-11-memorial",
+            "name": "9/11 Memorial",
+            "description": "Memorial of where the twin towers were.",
+            "section": "Page 1: Lower Manhatten and Financial District",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "9/11 Memorial: Memorial of where the twin towers were."
+          },
+          {
+            "id": "new-york-new-york-3-the-oculus",
+            "name": "The Oculus",
+            "description": "Near the 9/11 memorial and one world trade center. Free and a monument with a good view.",
+            "section": "Page 1: Lower Manhatten and Financial District",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "The Oculus: Near the 9/11 memorial and one world trade center. Free and a monument with a good view."
+          },
+          {
+            "id": "new-york-new-york-4-statue-of-liberty",
+            "name": "Statue of Liberty",
+            "description": "Take the Staten Island ferry (try not to go at a busy time). Not worth paying for a tour.",
+            "section": "Page 1: Lower Manhatten and Financial District",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Statue of Liberty: Take the Staten Island ferry (try not to go at a busy time). Not worth paying for a tour."
+          },
+          {
+            "id": "new-york-new-york-5-charging-bull-statue",
+            "name": "Charging Bull Statue",
+            "description": "In the financial district.",
+            "section": "Page 1: Lower Manhatten and Financial District",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Charging Bull Statue: In the financial district."
+          },
+          {
+            "id": "new-york-new-york-6-wall-street",
+            "name": "Wall Street",
+            "description": "See the stock exchange. There are a few old bars around here.",
+            "section": "Page 1: Lower Manhatten and Financial District",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Wall Street: See the stock exchange. There are a few old bars around here."
+          },
+          {
+            "id": "new-york-new-york-7-brooklyn-bridge",
+            "name": "Brooklyn Bridge",
+            "description": "Walk over and get some photos. Starts from downtown Manhattan.",
+            "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Brooklyn Bridge: Walk over and get some photos. Starts from downtown Manhattan."
+          },
+          {
+            "id": "new-york-new-york-8-manhatten-bridge",
+            "name": "Manhatten Bridge",
+            "description": "Bridge back across to Manhatten",
+            "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Manhatten Bridge: Bridge back across to Manhatten"
+          },
+          {
+            "id": "new-york-new-york-9-manhattan-bridge",
+            "name": "Manhattan Bridge",
+            "description": "Lots of good view points.",
+            "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Manhattan Bridge: Lots of good view points."
+          },
+          {
+            "id": "new-york-new-york-10-dumbo",
+            "name": "DUMBO",
+            "description": "Famous viewing point of Manhattan Bridge (DUMBO Manhattan Bridge View).",
+            "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "DUMBO: Famous viewing point of Manhattan Bridge (DUMBO Manhattan Bridge View)."
+          },
+          {
+            "id": "new-york-new-york-11-pebble-beach",
+            "name": "Pebble Beach",
+            "description": "Great views of Manhattan from Brooklyn.",
+            "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Pebble Beach: Great views of Manhattan from Brooklyn."
+          },
+          {
+            "id": "new-york-new-york-12-time-out-market-brooklyn",
+            "name": "Time Out Market Brooklyn",
+            "description": "Has a free rooftop view over the city.",
+            "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Time Out Market Brooklyn: Has a free rooftop view over the city."
+          },
+          {
+            "id": "new-york-new-york-13-brooklyn-flea-market",
+            "name": "Brooklyn Flea Market",
+            "description": "Market in Brooklyn, might be nice to go if we are over there. Happens on Saturdays during the day near DUMBO.",
+            "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Brooklyn Flea Market: Market in Brooklyn, might be nice to go if we are over there. Happens on Saturdays during the day near DUMBO."
+          },
+          {
+            "id": "new-york-new-york-14-times-square",
+            "name": "Times Square",
+            "description": "We can walk from hotel. Need to see it at day and night.",
+            "section": "Page 3: Midtown Core and Landmarks",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Times Square: We can walk from hotel. Need to see it at day and night."
+          },
+          {
+            "id": "new-york-new-york-15-grand-central",
+            "name": "Grand Central",
+            "description": "Famous central station in New York.",
+            "section": "Page 3: Midtown Core and Landmarks",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Grand Central: Famous central station in New York."
+          },
+          {
+            "id": "new-york-new-york-16-empire-state-building",
+            "name": "Empire State Building",
+            "description": "One of the most famous buildings in New York.",
+            "section": "Page 3: Midtown Core and Landmarks",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Empire State Building: One of the most famous buildings in New York."
+          },
+          {
+            "id": "new-york-new-york-17-fifth-avenue",
+            "name": "Fifth Avenue",
+            "description": "Good for shopping (5th Ave).",
+            "section": "Page 3: Midtown Core and Landmarks",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Fifth Avenue: Good for shopping (5th Ave)."
+          },
+          {
+            "id": "new-york-new-york-18-louis-vuitton-building",
+            "name": "Louis Vuitton Building",
+            "description": "Shaped like a massive trunk. On 5th Avenue.",
+            "section": "Page 3: Midtown Core and Landmarks",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Louis Vuitton Building: Shaped like a massive trunk. On 5th Avenue."
+          },
+          {
+            "id": "new-york-new-york-19-chrysler-building",
+            "name": "Chrysler Building",
+            "description": "Another famous building to see.",
+            "section": "Page 3: Midtown Core and Landmarks",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Chrysler Building: Another famous building to see."
+          },
+          {
+            "id": "new-york-new-york-20-st-patrick-s-cathedral",
+            "name": "St. Patrick's Cathedral",
+            "description": "New York Cathedral.",
+            "section": "Page 3: Midtown Core and Landmarks",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "St. Patrick's Cathedral: New York Cathedral."
+          },
+          {
+            "id": "new-york-new-york-21-bryant-park",
+            "name": "Bryant Park",
+            "description": "Smaller park near the Vanderbilt building.",
+            "section": "Page 3: Midtown Core and Landmarks",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Bryant Park: Smaller park near the Vanderbilt building."
+          },
+          {
+            "id": "new-york-new-york-22-radio-city",
+            "name": "Radio City",
+            "description": "Famous music hall near the Rockefeller (Radio City Music Hall).",
+            "section": "Page 3: Midtown Core and Landmarks",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Radio City: Famous music hall near the Rockefeller (Radio City Music Hall)."
+          },
+          {
+            "id": "new-york-new-york-23-broadway",
+            "name": "Broadway",
+            "description": "Walk up the iconic street (Broadway Theatre).",
+            "section": "Page 3: Midtown Core and Landmarks",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Broadway: Walk up the iconic street (Broadway Theatre)."
+          },
+          {
+            "id": "new-york-new-york-24-madison-square-garden-msg-",
+            "name": "Madison Square Garden (MSG)",
+            "description": "No events booked here but nice to see it in person.",
+            "section": "Page 3: Midtown Core and Landmarks",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Madison Square Garden (MSG): No events booked here but nice to see it in person."
+          },
+          {
+            "id": "new-york-new-york-25-the-high-line",
+            "name": "The High Line",
+            "description": "Walkway built over an old train line that goes along the Hudson River side of Manhattan.",
+            "section": "Page 4: Chelsea, Hudson Yards and West Side",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "The High Line: Walkway built over an old train line that goes along the Hudson River side of Manhattan."
+          },
+          {
+            "id": "new-york-new-york-26-little-island",
+            "name": "Little Island",
+            "description": "Free viewing platform over the Hudson River.",
+            "section": "Page 4: Chelsea, Hudson Yards and West Side",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Little Island: Free viewing platform over the Hudson River."
+          },
+          {
+            "id": "new-york-new-york-27-the-vessel",
+            "name": "The Vessel",
+            "description": "Landmark statue. Not worth paying to go up it but good to see it. Near Hudson Yards area.",
+            "section": "Page 4: Chelsea, Hudson Yards and West Side",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "The Vessel: Landmark statue. Not worth paying to go up it but good to see it. Near Hudson Yards area."
+          },
+          {
+            "id": "new-york-new-york-28-central-park",
+            "name": "Central Park",
+            "description": "Massive - could spend a while here walking around. Can hire bikes here to ride around.",
+            "section": "Page 5: Central Park and Upper Midtown",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Central Park: Massive - could spend a while here walking around. Can hire bikes here to ride around."
+          },
+          {
+            "id": "new-york-new-york-29-flatiron-building",
+            "name": "Flatiron Building",
+            "description": "Another famous building to see.",
+            "section": "Page 5: Central Park and Upper Midtown",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Flatiron Building: Another famous building to see."
+          },
+          {
+            "id": "new-york-new-york-30-chinatown",
+            "name": "Chinatown",
+            "description": "Walk around, get dumplings and pork buns.",
+            "section": "Page 6: Downtown Neighborhoods",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Chinatown: Walk around, get dumplings and pork buns."
+          },
+          {
+            "id": "new-york-new-york-31-little-italy",
+            "name": "Little Italy",
+            "description": "Famous Italian neighbourhood.",
+            "section": "Page 6: Downtown Neighborhoods",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Little Italy: Famous Italian neighbourhood."
+          },
+          {
+            "id": "new-york-new-york-32-roosevelt-island-tram",
+            "name": "Roosevelt Island Tram",
+            "description": "Cheap tram that goes along the river up Manhattan (Roosevelt Island Tramway).",
+            "section": "Page 7: East River and Islands",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Roosevelt Island Tram: Cheap tram that goes along the river up Manhattan (Roosevelt Island Tramway)."
+          },
+          {
+            "id": "new-york-new-york-33-pier-35",
+            "name": "Pier 35",
+            "description": "View of both Brooklyn and Manhattan bridges from Manhattan side.",
+            "section": "Page 7: East River and Islands",
+            "file": "new-york/new-york.md",
+            "initialChecked": false,
+            "raw": "Pier 35: View of both Brooklyn and Manhattan bridges from Manhattan side."
+          }
+        ]
+      }
+    ],
+    "totalItems": 41,
+    "totalSections": 9,
+    "items": [
+      {
+        "id": "new-york-dining-and-tips-1-katz-s-delicatessen",
+        "name": "Katz's Delicatessen",
+        "description": "Legendary pastrami on rye in the Lower East Side.",
+        "section": "Page 1: Must-Try Eats",
+        "file": "new-york/dining-and-tips.md",
+        "initialChecked": false,
+        "raw": "Katz's Delicatessen: Legendary pastrami on rye in the Lower East Side."
+      },
+      {
+        "id": "new-york-dining-and-tips-2-joe-s-pizza",
+        "name": "Joe's Pizza",
+        "description": "Classic New York slice in Greenwich Village (Carmine St).",
+        "section": "Page 1: Must-Try Eats",
+        "file": "new-york/dining-and-tips.md",
+        "initialChecked": false,
+        "raw": "Joe's Pizza: Classic New York slice in Greenwich Village (Carmine St)."
+      },
+      {
+        "id": "new-york-dining-and-tips-3-los-tacos-no-1",
+        "name": "Los Tacos No. 1",
+        "description": "Authentic Tijuana-style tacos in Chelsea Market.",
+        "section": "Page 1: Must-Try Eats",
+        "file": "new-york/dining-and-tips.md",
+        "initialChecked": false,
+        "raw": "Los Tacos No. 1: Authentic Tijuana-style tacos in Chelsea Market."
+      },
+      {
+        "id": "new-york-dining-and-tips-4-levain-bakery",
+        "name": "Levain Bakery",
+        "description": "Famous giant warm chocolate chip cookies on Upper West Side.",
+        "section": "Page 1: Must-Try Eats",
+        "file": "new-york/dining-and-tips.md",
+        "initialChecked": false,
+        "raw": "Levain Bakery: Famous giant warm chocolate chip cookies on Upper West Side."
+      },
+      {
+        "id": "new-york-dining-and-tips-5-russ-daughters",
+        "name": "Russ & Daughters",
+        "description": "Classic Jewish bagels, lox, and babka.",
+        "section": "Page 1: Must-Try Eats",
+        "file": "new-york/dining-and-tips.md",
+        "initialChecked": false,
+        "raw": "Russ & Daughters: Classic Jewish bagels, lox, and babka."
+      },
+      {
+        "id": "new-york-dining-and-tips-6-subway-omny",
+        "name": "Subway OMNY",
+        "description": "Just tap your phone or contactless card at any subway turnstile.",
+        "section": "Page 2: Travel & Transit Tips",
+        "file": "new-york/dining-and-tips.md",
+        "initialChecked": false,
+        "raw": "Subway OMNY: Just tap your phone or contactless card at any subway turnstile."
+      },
+      {
+        "id": "new-york-dining-and-tips-7-staten-island-ferry",
+        "name": "Staten Island Ferry",
+        "description": "Free 24/7 scenic boat ride with views of the Statue of Liberty.",
+        "section": "Page 2: Travel & Transit Tips",
+        "file": "new-york/dining-and-tips.md",
+        "initialChecked": false,
+        "raw": "Staten Island Ferry: Free 24/7 scenic boat ride with views of the Statue of Liberty."
+      },
+      {
+        "id": "new-york-dining-and-tips-8-roosevelt-island-tram",
+        "name": "Roosevelt Island Tram",
+        "description": "Uses standard subway fare ($2.90) and offers great skyline views.",
+        "section": "Page 2: Travel & Transit Tips",
+        "file": "new-york/dining-and-tips.md",
+        "initialChecked": false,
+        "raw": "Roosevelt Island Tram: Uses standard subway fare ($2.90) and offers great skyline views."
+      },
+      {
+        "id": "new-york-new-york-1-one-world-trade-center",
+        "name": "One World Trade Center",
+        "description": "Landmark skyscraper near the 9/11 memorial.",
+        "section": "Page 1: Lower Manhatten and Financial District",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "One World Trade Center: Landmark skyscraper near the 9/11 memorial."
+      },
+      {
+        "id": "new-york-new-york-2-9-11-memorial",
+        "name": "9/11 Memorial",
+        "description": "Memorial of where the twin towers were.",
+        "section": "Page 1: Lower Manhatten and Financial District",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "9/11 Memorial: Memorial of where the twin towers were."
+      },
+      {
+        "id": "new-york-new-york-3-the-oculus",
+        "name": "The Oculus",
+        "description": "Near the 9/11 memorial and one world trade center. Free and a monument with a good view.",
+        "section": "Page 1: Lower Manhatten and Financial District",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "The Oculus: Near the 9/11 memorial and one world trade center. Free and a monument with a good view."
+      },
+      {
+        "id": "new-york-new-york-4-statue-of-liberty",
+        "name": "Statue of Liberty",
+        "description": "Take the Staten Island ferry (try not to go at a busy time). Not worth paying for a tour.",
+        "section": "Page 1: Lower Manhatten and Financial District",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Statue of Liberty: Take the Staten Island ferry (try not to go at a busy time). Not worth paying for a tour."
+      },
+      {
+        "id": "new-york-new-york-5-charging-bull-statue",
+        "name": "Charging Bull Statue",
+        "description": "In the financial district.",
+        "section": "Page 1: Lower Manhatten and Financial District",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Charging Bull Statue: In the financial district."
+      },
+      {
+        "id": "new-york-new-york-6-wall-street",
+        "name": "Wall Street",
+        "description": "See the stock exchange. There are a few old bars around here.",
+        "section": "Page 1: Lower Manhatten and Financial District",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Wall Street: See the stock exchange. There are a few old bars around here."
+      },
+      {
+        "id": "new-york-new-york-7-brooklyn-bridge",
+        "name": "Brooklyn Bridge",
+        "description": "Walk over and get some photos. Starts from downtown Manhattan.",
+        "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Brooklyn Bridge: Walk over and get some photos. Starts from downtown Manhattan."
+      },
+      {
+        "id": "new-york-new-york-8-manhatten-bridge",
+        "name": "Manhatten Bridge",
+        "description": "Bridge back across to Manhatten",
+        "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Manhatten Bridge: Bridge back across to Manhatten"
+      },
+      {
+        "id": "new-york-new-york-9-manhattan-bridge",
+        "name": "Manhattan Bridge",
+        "description": "Lots of good view points.",
+        "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Manhattan Bridge: Lots of good view points."
+      },
+      {
+        "id": "new-york-new-york-10-dumbo",
+        "name": "DUMBO",
+        "description": "Famous viewing point of Manhattan Bridge (DUMBO Manhattan Bridge View).",
+        "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "DUMBO: Famous viewing point of Manhattan Bridge (DUMBO Manhattan Bridge View)."
+      },
+      {
+        "id": "new-york-new-york-11-pebble-beach",
+        "name": "Pebble Beach",
+        "description": "Great views of Manhattan from Brooklyn.",
+        "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Pebble Beach: Great views of Manhattan from Brooklyn."
+      },
+      {
+        "id": "new-york-new-york-12-time-out-market-brooklyn",
+        "name": "Time Out Market Brooklyn",
+        "description": "Has a free rooftop view over the city.",
+        "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Time Out Market Brooklyn: Has a free rooftop view over the city."
+      },
+      {
+        "id": "new-york-new-york-13-brooklyn-flea-market",
+        "name": "Brooklyn Flea Market",
+        "description": "Market in Brooklyn, might be nice to go if we are over there. Happens on Saturdays during the day near DUMBO.",
+        "section": "Page 2: Brooklyn Bridge, DUMBO and the Waterfront",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Brooklyn Flea Market: Market in Brooklyn, might be nice to go if we are over there. Happens on Saturdays during the day near DUMBO."
+      },
+      {
+        "id": "new-york-new-york-14-times-square",
+        "name": "Times Square",
+        "description": "We can walk from hotel. Need to see it at day and night.",
+        "section": "Page 3: Midtown Core and Landmarks",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Times Square: We can walk from hotel. Need to see it at day and night."
+      },
+      {
+        "id": "new-york-new-york-15-grand-central",
+        "name": "Grand Central",
+        "description": "Famous central station in New York.",
+        "section": "Page 3: Midtown Core and Landmarks",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Grand Central: Famous central station in New York."
+      },
+      {
+        "id": "new-york-new-york-16-empire-state-building",
+        "name": "Empire State Building",
+        "description": "One of the most famous buildings in New York.",
+        "section": "Page 3: Midtown Core and Landmarks",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Empire State Building: One of the most famous buildings in New York."
+      },
+      {
+        "id": "new-york-new-york-17-fifth-avenue",
+        "name": "Fifth Avenue",
+        "description": "Good for shopping (5th Ave).",
+        "section": "Page 3: Midtown Core and Landmarks",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Fifth Avenue: Good for shopping (5th Ave)."
+      },
+      {
+        "id": "new-york-new-york-18-louis-vuitton-building",
+        "name": "Louis Vuitton Building",
+        "description": "Shaped like a massive trunk. On 5th Avenue.",
+        "section": "Page 3: Midtown Core and Landmarks",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Louis Vuitton Building: Shaped like a massive trunk. On 5th Avenue."
+      },
+      {
+        "id": "new-york-new-york-19-chrysler-building",
+        "name": "Chrysler Building",
+        "description": "Another famous building to see.",
+        "section": "Page 3: Midtown Core and Landmarks",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Chrysler Building: Another famous building to see."
+      },
+      {
+        "id": "new-york-new-york-20-st-patrick-s-cathedral",
+        "name": "St. Patrick's Cathedral",
+        "description": "New York Cathedral.",
+        "section": "Page 3: Midtown Core and Landmarks",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "St. Patrick's Cathedral: New York Cathedral."
+      },
+      {
+        "id": "new-york-new-york-21-bryant-park",
+        "name": "Bryant Park",
+        "description": "Smaller park near the Vanderbilt building.",
+        "section": "Page 3: Midtown Core and Landmarks",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Bryant Park: Smaller park near the Vanderbilt building."
+      },
+      {
+        "id": "new-york-new-york-22-radio-city",
+        "name": "Radio City",
+        "description": "Famous music hall near the Rockefeller (Radio City Music Hall).",
+        "section": "Page 3: Midtown Core and Landmarks",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Radio City: Famous music hall near the Rockefeller (Radio City Music Hall)."
+      },
+      {
+        "id": "new-york-new-york-23-broadway",
+        "name": "Broadway",
+        "description": "Walk up the iconic street (Broadway Theatre).",
+        "section": "Page 3: Midtown Core and Landmarks",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Broadway: Walk up the iconic street (Broadway Theatre)."
+      },
+      {
+        "id": "new-york-new-york-24-madison-square-garden-msg-",
+        "name": "Madison Square Garden (MSG)",
+        "description": "No events booked here but nice to see it in person.",
+        "section": "Page 3: Midtown Core and Landmarks",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Madison Square Garden (MSG): No events booked here but nice to see it in person."
+      },
+      {
+        "id": "new-york-new-york-25-the-high-line",
+        "name": "The High Line",
+        "description": "Walkway built over an old train line that goes along the Hudson River side of Manhattan.",
+        "section": "Page 4: Chelsea, Hudson Yards and West Side",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "The High Line: Walkway built over an old train line that goes along the Hudson River side of Manhattan."
+      },
+      {
+        "id": "new-york-new-york-26-little-island",
+        "name": "Little Island",
+        "description": "Free viewing platform over the Hudson River.",
+        "section": "Page 4: Chelsea, Hudson Yards and West Side",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Little Island: Free viewing platform over the Hudson River."
+      },
+      {
+        "id": "new-york-new-york-27-the-vessel",
+        "name": "The Vessel",
+        "description": "Landmark statue. Not worth paying to go up it but good to see it. Near Hudson Yards area.",
+        "section": "Page 4: Chelsea, Hudson Yards and West Side",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "The Vessel: Landmark statue. Not worth paying to go up it but good to see it. Near Hudson Yards area."
+      },
+      {
+        "id": "new-york-new-york-28-central-park",
+        "name": "Central Park",
+        "description": "Massive - could spend a while here walking around. Can hire bikes here to ride around.",
+        "section": "Page 5: Central Park and Upper Midtown",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Central Park: Massive - could spend a while here walking around. Can hire bikes here to ride around."
+      },
+      {
+        "id": "new-york-new-york-29-flatiron-building",
+        "name": "Flatiron Building",
+        "description": "Another famous building to see.",
+        "section": "Page 5: Central Park and Upper Midtown",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Flatiron Building: Another famous building to see."
+      },
+      {
+        "id": "new-york-new-york-30-chinatown",
+        "name": "Chinatown",
+        "description": "Walk around, get dumplings and pork buns.",
+        "section": "Page 6: Downtown Neighborhoods",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Chinatown: Walk around, get dumplings and pork buns."
+      },
+      {
+        "id": "new-york-new-york-31-little-italy",
+        "name": "Little Italy",
+        "description": "Famous Italian neighbourhood.",
+        "section": "Page 6: Downtown Neighborhoods",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Little Italy: Famous Italian neighbourhood."
+      },
+      {
+        "id": "new-york-new-york-32-roosevelt-island-tram",
+        "name": "Roosevelt Island Tram",
+        "description": "Cheap tram that goes along the river up Manhattan (Roosevelt Island Tramway).",
+        "section": "Page 7: East River and Islands",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Roosevelt Island Tram: Cheap tram that goes along the river up Manhattan (Roosevelt Island Tramway)."
+      },
+      {
+        "id": "new-york-new-york-33-pier-35",
+        "name": "Pier 35",
+        "description": "View of both Brooklyn and Manhattan bridges from Manhattan side.",
+        "section": "Page 7: East River and Islands",
+        "file": "new-york/new-york.md",
+        "initialChecked": false,
+        "raw": "Pier 35: View of both Brooklyn and Manhattan bridges from Manhattan side."
+      }
+    ]
+  },
+  {
+    "id": "tokyo",
+    "slug": "tokyo",
+    "title": "Tokyo",
+    "folder": "tokyo",
+    "files": [
+      {
+        "filename": "tokyo-itinerary.md",
+        "relativePath": "tokyo/tokyo-itinerary.md",
+        "title": "Tokyo Exploration",
+        "rawContent": "# Tokyo Exploration\n\n## Day 1: Shibuya & Shinjuku\n\n- Shibuya Crossing: The world's busiest pedestrian crossing outside Hachiko exit.\n- Shibuya Sky: 360-degree open-air observation deck on top of Scramble Square.\n- Meiji Jingu: Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya.\n- Omoide Yokocho: Nostalgic narrow alleyway in Shinjuku with yakitori stalls.\n- Tokyo Metropolitan Government Building: Free panoramic observatory on the 45th floor.\n\n## Day 2: Asakusa & Akihabara\n\n- Senso-ji Temple: Tokyo's oldest Buddhist temple in historic Asakusa.\n- Nakamise Shopping Street: Traditional snacks and souvenirs leading up to Senso-ji.\n- Akihabara Electric Town: Hub for retro gaming, electronics, and anime culture.\n- Kanda Myojin Shrine: Ancient shrine patron of Tokyo and tech gadgets.\n",
+        "sections": [
+          {
+            "id": "section-2-day-1-shibuya-shinjuku",
+            "title": "Day 1: Shibuya & Shinjuku",
+            "items": [
+              {
+                "id": "tokyo-tokyo-itinerary-1-shibuya-crossing",
+                "name": "Shibuya Crossing",
+                "description": "The world's busiest pedestrian crossing outside Hachiko exit.",
+                "section": "Day 1: Shibuya & Shinjuku",
+                "file": "tokyo/tokyo-itinerary.md",
+                "initialChecked": false,
+                "raw": "Shibuya Crossing: The world's busiest pedestrian crossing outside Hachiko exit."
+              },
+              {
+                "id": "tokyo-tokyo-itinerary-2-shibuya-sky",
+                "name": "Shibuya Sky",
+                "description": "360-degree open-air observation deck on top of Scramble Square.",
+                "section": "Day 1: Shibuya & Shinjuku",
+                "file": "tokyo/tokyo-itinerary.md",
+                "initialChecked": false,
+                "raw": "Shibuya Sky: 360-degree open-air observation deck on top of Scramble Square."
+              },
+              {
+                "id": "tokyo-tokyo-itinerary-3-meiji-jingu",
+                "name": "Meiji Jingu",
+                "description": "Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya.",
+                "section": "Day 1: Shibuya & Shinjuku",
+                "file": "tokyo/tokyo-itinerary.md",
+                "initialChecked": false,
+                "raw": "Meiji Jingu: Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya."
+              },
+              {
+                "id": "tokyo-tokyo-itinerary-4-omoide-yokocho",
+                "name": "Omoide Yokocho",
+                "description": "Nostalgic narrow alleyway in Shinjuku with yakitori stalls.",
+                "section": "Day 1: Shibuya & Shinjuku",
+                "file": "tokyo/tokyo-itinerary.md",
+                "initialChecked": false,
+                "raw": "Omoide Yokocho: Nostalgic narrow alleyway in Shinjuku with yakitori stalls."
+              },
+              {
+                "id": "tokyo-tokyo-itinerary-5-tokyo-metropolitan-government-building",
+                "name": "Tokyo Metropolitan Government Building",
+                "description": "Free panoramic observatory on the 45th floor.",
+                "section": "Day 1: Shibuya & Shinjuku",
+                "file": "tokyo/tokyo-itinerary.md",
+                "initialChecked": false,
+                "raw": "Tokyo Metropolitan Government Building: Free panoramic observatory on the 45th floor."
+              }
+            ]
+          },
+          {
+            "id": "section-3-day-2-asakusa-akihabara",
+            "title": "Day 2: Asakusa & Akihabara",
+            "items": [
+              {
+                "id": "tokyo-tokyo-itinerary-6-senso-ji-temple",
+                "name": "Senso-ji Temple",
+                "description": "Tokyo's oldest Buddhist temple in historic Asakusa.",
+                "section": "Day 2: Asakusa & Akihabara",
+                "file": "tokyo/tokyo-itinerary.md",
+                "initialChecked": false,
+                "raw": "Senso-ji Temple: Tokyo's oldest Buddhist temple in historic Asakusa."
+              },
+              {
+                "id": "tokyo-tokyo-itinerary-7-nakamise-shopping-street",
+                "name": "Nakamise Shopping Street",
+                "description": "Traditional snacks and souvenirs leading up to Senso-ji.",
+                "section": "Day 2: Asakusa & Akihabara",
+                "file": "tokyo/tokyo-itinerary.md",
+                "initialChecked": false,
+                "raw": "Nakamise Shopping Street: Traditional snacks and souvenirs leading up to Senso-ji."
+              },
+              {
+                "id": "tokyo-tokyo-itinerary-8-akihabara-electric-town",
+                "name": "Akihabara Electric Town",
+                "description": "Hub for retro gaming, electronics, and anime culture.",
+                "section": "Day 2: Asakusa & Akihabara",
+                "file": "tokyo/tokyo-itinerary.md",
+                "initialChecked": false,
+                "raw": "Akihabara Electric Town: Hub for retro gaming, electronics, and anime culture."
+              },
+              {
+                "id": "tokyo-tokyo-itinerary-9-kanda-myojin-shrine",
+                "name": "Kanda Myojin Shrine",
+                "description": "Ancient shrine patron of Tokyo and tech gadgets.",
+                "section": "Day 2: Asakusa & Akihabara",
+                "file": "tokyo/tokyo-itinerary.md",
+                "initialChecked": false,
+                "raw": "Kanda Myojin Shrine: Ancient shrine patron of Tokyo and tech gadgets."
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": "tokyo-tokyo-itinerary-1-shibuya-crossing",
+            "name": "Shibuya Crossing",
+            "description": "The world's busiest pedestrian crossing outside Hachiko exit.",
+            "section": "Day 1: Shibuya & Shinjuku",
+            "file": "tokyo/tokyo-itinerary.md",
+            "initialChecked": false,
+            "raw": "Shibuya Crossing: The world's busiest pedestrian crossing outside Hachiko exit."
+          },
+          {
+            "id": "tokyo-tokyo-itinerary-2-shibuya-sky",
+            "name": "Shibuya Sky",
+            "description": "360-degree open-air observation deck on top of Scramble Square.",
+            "section": "Day 1: Shibuya & Shinjuku",
+            "file": "tokyo/tokyo-itinerary.md",
+            "initialChecked": false,
+            "raw": "Shibuya Sky: 360-degree open-air observation deck on top of Scramble Square."
+          },
+          {
+            "id": "tokyo-tokyo-itinerary-3-meiji-jingu",
+            "name": "Meiji Jingu",
+            "description": "Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya.",
+            "section": "Day 1: Shibuya & Shinjuku",
+            "file": "tokyo/tokyo-itinerary.md",
+            "initialChecked": false,
+            "raw": "Meiji Jingu: Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya."
+          },
+          {
+            "id": "tokyo-tokyo-itinerary-4-omoide-yokocho",
+            "name": "Omoide Yokocho",
+            "description": "Nostalgic narrow alleyway in Shinjuku with yakitori stalls.",
+            "section": "Day 1: Shibuya & Shinjuku",
+            "file": "tokyo/tokyo-itinerary.md",
+            "initialChecked": false,
+            "raw": "Omoide Yokocho: Nostalgic narrow alleyway in Shinjuku with yakitori stalls."
+          },
+          {
+            "id": "tokyo-tokyo-itinerary-5-tokyo-metropolitan-government-building",
+            "name": "Tokyo Metropolitan Government Building",
+            "description": "Free panoramic observatory on the 45th floor.",
+            "section": "Day 1: Shibuya & Shinjuku",
+            "file": "tokyo/tokyo-itinerary.md",
+            "initialChecked": false,
+            "raw": "Tokyo Metropolitan Government Building: Free panoramic observatory on the 45th floor."
+          },
+          {
+            "id": "tokyo-tokyo-itinerary-6-senso-ji-temple",
+            "name": "Senso-ji Temple",
+            "description": "Tokyo's oldest Buddhist temple in historic Asakusa.",
+            "section": "Day 2: Asakusa & Akihabara",
+            "file": "tokyo/tokyo-itinerary.md",
+            "initialChecked": false,
+            "raw": "Senso-ji Temple: Tokyo's oldest Buddhist temple in historic Asakusa."
+          },
+          {
+            "id": "tokyo-tokyo-itinerary-7-nakamise-shopping-street",
+            "name": "Nakamise Shopping Street",
+            "description": "Traditional snacks and souvenirs leading up to Senso-ji.",
+            "section": "Day 2: Asakusa & Akihabara",
+            "file": "tokyo/tokyo-itinerary.md",
+            "initialChecked": false,
+            "raw": "Nakamise Shopping Street: Traditional snacks and souvenirs leading up to Senso-ji."
+          },
+          {
+            "id": "tokyo-tokyo-itinerary-8-akihabara-electric-town",
+            "name": "Akihabara Electric Town",
+            "description": "Hub for retro gaming, electronics, and anime culture.",
+            "section": "Day 2: Asakusa & Akihabara",
+            "file": "tokyo/tokyo-itinerary.md",
+            "initialChecked": false,
+            "raw": "Akihabara Electric Town: Hub for retro gaming, electronics, and anime culture."
+          },
+          {
+            "id": "tokyo-tokyo-itinerary-9-kanda-myojin-shrine",
+            "name": "Kanda Myojin Shrine",
+            "description": "Ancient shrine patron of Tokyo and tech gadgets.",
+            "section": "Day 2: Asakusa & Akihabara",
+            "file": "tokyo/tokyo-itinerary.md",
+            "initialChecked": false,
+            "raw": "Kanda Myojin Shrine: Ancient shrine patron of Tokyo and tech gadgets."
+          }
+        ]
+      }
+    ],
+    "totalItems": 9,
+    "totalSections": 2,
+    "items": [
+      {
+        "id": "tokyo-tokyo-itinerary-1-shibuya-crossing",
+        "name": "Shibuya Crossing",
+        "description": "The world's busiest pedestrian crossing outside Hachiko exit.",
+        "section": "Day 1: Shibuya & Shinjuku",
+        "file": "tokyo/tokyo-itinerary.md",
+        "initialChecked": false,
+        "raw": "Shibuya Crossing: The world's busiest pedestrian crossing outside Hachiko exit."
+      },
+      {
+        "id": "tokyo-tokyo-itinerary-2-shibuya-sky",
+        "name": "Shibuya Sky",
+        "description": "360-degree open-air observation deck on top of Scramble Square.",
+        "section": "Day 1: Shibuya & Shinjuku",
+        "file": "tokyo/tokyo-itinerary.md",
+        "initialChecked": false,
+        "raw": "Shibuya Sky: 360-degree open-air observation deck on top of Scramble Square."
+      },
+      {
+        "id": "tokyo-tokyo-itinerary-3-meiji-jingu",
+        "name": "Meiji Jingu",
+        "description": "Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya.",
+        "section": "Day 1: Shibuya & Shinjuku",
+        "file": "tokyo/tokyo-itinerary.md",
+        "initialChecked": false,
+        "raw": "Meiji Jingu: Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya."
+      },
+      {
+        "id": "tokyo-tokyo-itinerary-4-omoide-yokocho",
+        "name": "Omoide Yokocho",
+        "description": "Nostalgic narrow alleyway in Shinjuku with yakitori stalls.",
+        "section": "Day 1: Shibuya & Shinjuku",
+        "file": "tokyo/tokyo-itinerary.md",
+        "initialChecked": false,
+        "raw": "Omoide Yokocho: Nostalgic narrow alleyway in Shinjuku with yakitori stalls."
+      },
+      {
+        "id": "tokyo-tokyo-itinerary-5-tokyo-metropolitan-government-building",
+        "name": "Tokyo Metropolitan Government Building",
+        "description": "Free panoramic observatory on the 45th floor.",
+        "section": "Day 1: Shibuya & Shinjuku",
+        "file": "tokyo/tokyo-itinerary.md",
+        "initialChecked": false,
+        "raw": "Tokyo Metropolitan Government Building: Free panoramic observatory on the 45th floor."
+      },
+      {
+        "id": "tokyo-tokyo-itinerary-6-senso-ji-temple",
+        "name": "Senso-ji Temple",
+        "description": "Tokyo's oldest Buddhist temple in historic Asakusa.",
+        "section": "Day 2: Asakusa & Akihabara",
+        "file": "tokyo/tokyo-itinerary.md",
+        "initialChecked": false,
+        "raw": "Senso-ji Temple: Tokyo's oldest Buddhist temple in historic Asakusa."
+      },
+      {
+        "id": "tokyo-tokyo-itinerary-7-nakamise-shopping-street",
+        "name": "Nakamise Shopping Street",
+        "description": "Traditional snacks and souvenirs leading up to Senso-ji.",
+        "section": "Day 2: Asakusa & Akihabara",
+        "file": "tokyo/tokyo-itinerary.md",
+        "initialChecked": false,
+        "raw": "Nakamise Shopping Street: Traditional snacks and souvenirs leading up to Senso-ji."
+      },
+      {
+        "id": "tokyo-tokyo-itinerary-8-akihabara-electric-town",
+        "name": "Akihabara Electric Town",
+        "description": "Hub for retro gaming, electronics, and anime culture.",
+        "section": "Day 2: Asakusa & Akihabara",
+        "file": "tokyo/tokyo-itinerary.md",
+        "initialChecked": false,
+        "raw": "Akihabara Electric Town: Hub for retro gaming, electronics, and anime culture."
+      },
+      {
+        "id": "tokyo-tokyo-itinerary-9-kanda-myojin-shrine",
+        "name": "Kanda Myojin Shrine",
+        "description": "Ancient shrine patron of Tokyo and tech gadgets.",
+        "section": "Day 2: Asakusa & Akihabara",
+        "file": "tokyo/tokyo-itinerary.md",
+        "initialChecked": false,
+        "raw": "Kanda Myojin Shrine: Ancient shrine patron of Tokyo and tech gadgets."
+      }
+    ]
+  }
+]

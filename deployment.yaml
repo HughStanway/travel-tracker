@@ -1,0 +1,21 @@
+version: 1
+
+deployment:
+  name: "travel-tracker"
+  description: "Travel Tracker - Static Markdown Travel Plans Frontend"
+
+services:
+  web:
+    artifact: "travel-tracker@latest"
+    type: "docker-image"
+    ports:
+      - "8085:80"
+    healthCheck:
+      endpoint: "GET http://localhost:8085/"
+      interval: "30s"
+      timeout: "5s"
+      retries: 3
+      unhealthyThreshold: 2
+    resources:
+      memory: "128m"
+      cpus: "0.5"
