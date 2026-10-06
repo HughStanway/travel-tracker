@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Check, MapPin, ExternalLink, Copy, CheckCircle2 } from 'lucide-react';
 import { TravelItem } from '../types/travel';
+import { renderInlineMarkdown, stripMarkdown } from '../utils/markdown';
 
 interface ItemCardProps {
   item: TravelItem;
@@ -17,12 +18,14 @@ export const ItemCard: React.FC<ItemCardProps> = ({
 }) => {
   const [copied, setCopied] = useState(false);
 
-  const mapsQuery = encodeURIComponent(`${item.name}, ${destination}`);
+  const plainName = stripMarkdown(item.name);
+  const mapsName = plainName.replace(/\s*\([^)]*\)\s*$/, '').trim() || plainName;
+  const mapsQuery = encodeURIComponent(`${mapsName}, ${destination}`);
   const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${mapsQuery}`;
 
   const handleCopy = (e: React.MouseEvent) => {
     e.stopPropagation();
-    navigator.clipboard.writeText(item.name);
+    navigator.clipboard.writeText(plainName);
     setCopied(true);
     setTimeout(() => setCopied(false), 1500);
   };
@@ -66,9 +69,8 @@ export const ItemCard: React.FC<ItemCardProps> = ({
                   ? 'text-slate-500 dark:text-slate-400 line-through'
                   : 'text-slate-900 dark:text-slate-100 group-hover:text-orange-600 dark:group-hover:text-orange-400'
               }`}
-            >
-              {item.name}
-            </h4>
+              dangerouslySetInnerHTML={{ __html: renderInlineMarkdown(item.name) }}
+            />
 
             {/* Quick Actions (hidden in print) */}
             <div className="flex items-center gap-1 opacity-80 group-hover:opacity-100 transition no-print">
@@ -104,15 +106,14 @@ export const ItemCard: React.FC<ItemCardProps> = ({
                   ? 'text-slate-400 dark:text-slate-500'
                   : 'text-slate-600 dark:text-slate-400'
               }`}
-            >
-              {item.description}
-            </p>
+              dangerouslySetInnerHTML={{ __html: renderInlineMarkdown(item.description) }}
+            />
           )}
 
           <div className="mt-2.5 flex items-center gap-2">
             <span className="inline-flex items-center gap-1 text-[10px] font-medium px-2 py-0.5 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400">
               <MapPin className="w-2.5 h-2.5" />
-              {item.section}
+              {stripMarkdown(item.section)}
             </span>
             {isChecked && (
               <span className="text-[10px] font-semibold text-orange-600 dark:text-orange-400">

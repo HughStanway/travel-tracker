@@ -6,168 +6,558 @@
     "folder": "new-york",
     "files": [
       {
-        "filename": "dining-and-tips.md",
-        "relativePath": "new-york/dining-and-tips.md",
-        "title": "Food & Tips",
-        "rawContent": "# Food & Tips\n\n## Page 1: Must-Try Eats\n\n- Katz's Delicatessen: Legendary pastrami on rye in the Lower East Side.\n- Joe's Pizza: Classic New York slice in Greenwich Village (Carmine St).\n- Los Tacos No. 1: Authentic Tijuana-style tacos in Chelsea Market.\n- Levain Bakery: Famous giant warm chocolate chip cookies on Upper West Side.\n- Russ & Daughters: Classic Jewish bagels, lox, and babka.\n\n## Page 2: Travel & Transit Tips\n\n- Subway OMNY: Just tap your phone or contactless card at any subway turnstile.\n- Staten Island Ferry: Free 24/7 scenic boat ride with views of the Statue of Liberty.\n- Roosevelt Island Tram: Uses standard subway fare ($2.90) and offers great skyline views.\n",
+        "filename": "food-and-drink.md",
+        "relativePath": "new-york/food-and-drink.md",
+        "title": "New York Food & Drinss",
+        "rawContent": "# New York Food & Drinss\n\n## 1. Uptown (Upper East Side & Upper West Side)\n* **Glace** (Snack / Dessert): Ice cream place known for s'mores hot chocolate. *(Location: Upper East Side)*\n* **Levain Bakery** (Snack / Dessert): Highly rated bakery. Known for its cookies. *(Location: Original is Upper West Side)*\n\n## 2. Midtown Core & Times Square\n* **Rudy's Bar and Grill** (Pub / Drinks): Dive bar with $4 a pint beers in Manhattan near Times Square.\n* **Jimmy's Corner** (Pub / Drinks): Historic NYC bar near Times Square.\n* **Hershey's Chocolate World** (Snack / Dessert): Looks a bit like M&M world in London but might be nice to try some Hershey's chocolate.\n* **Liberty Bagels** (Lunch / Dinner): Another famous bagel spot. *(Location: One near Times Square and one near Wall Street)*\n\n## 3. Chelsea, Greenwich Village & West Village\n* **Joe's Pizza** (Lunch / Dinner): Go to the one on Carmine Street as it's less busy and the original. *(Location: Greenwich Village)*\n* **L'industrie Pizzeria** (Lunch / Dinner): Another highly rated pizza spot. *(Location: West Village)*\n* **Mama Too's** (Lunch / Dinner): Really good New York / American Pizza (Pie's) and sandwiches. *(Location: West Village location)*\n* **Magnolia Bakery** (Snack / Dessert): Famous banana pudding. *(Location: Original is West Village)*\n* **Leon's Bagels** (Breakfast / Lunch): Famous bagel spot. *(Location: Prime location in Greenwich Village)*\n* **Los Tacos No 1** (Lunch / Dinner): New York Tacos. *(Location: Original in Chelsea Market)*\n\n## 4. East Village & Lower East Side (LES)\n* **Katz's Deli** (Lunch / Dinner): Famous pastrami sandwich. *(Location: Lower East Side)*\n* **McSorley's** (Pub / Drinks): One of the oldest saloons in NYC with cheap drinks. *(Note: This is in the East Village, it is actually quite far from Times Square!)*\n* **7th Street Burger** (Lunch / Dinner): Famous burger spot. *(Location: Original in East Village)*\n* **Apollo Bagels** (Lunch / Dinner): Another famous bagel spot. *(Location: East Village)*\n* **Smashy** (Lunch / Dinner): $6 Smash Burgers. *(Location: Lower East Side)*\n\n## 5. Chinatown, Tribeca & Financial District\n* **Bubby's** (Breakfast / Lunch): Pancake spot. *(Location: Tribeca)*\n* **Mei Lai Wah** (Lunch / Dinner): Chinatown bakery. Famous for $3 pork bun. *(Location: Chinatown)*\n* **Jin Mei Dumplings** (Lunch / Dinner): Highly rated Chinatown dumplings spot and good value. *(Location: Chinatown)*\n* **169 Bar** (Pub / Drinks): Bar near Chinatown. Looks like good value drinks only a few dollars per beer. *(Location: Chinatown / LES border)*\n\n## 6. Citywide Chains & Widespread Locations\n*These are major chains or local spots with so many locations around Manhattan that you can grab them in almost any zone.*\n* **Chick-fil-a** (Lunch / Dinner): Chain, lots around the city.\n* **Raising Canes** (Lunch / Dinner): Chain, lots around the city.\n* **Olive Garden** (Lunch / Dinner): Chain, lots around the city.\n* **Crumble Cookie** (Snack / Dessert): Chain, lots around the city.\n* **IHOP** (Breakfast / Lunch): Famous american diner chain.\n* **Lenwich** (Lunch / Dinner): Highly rated sandwich spot.\n\n## 7. Outside Manhattan\n* **The Cheesecake Factory** (Lunch / Dinner): Famous american chain, none in Manhattan but one in New Jersey.\n",
         "sections": [
           {
-            "id": "section-2-page-1-must-try-eats",
-            "title": "Page 1: Must-Try Eats",
+            "id": "section-2-1-uptown-upper-east-side-upper-west-side-",
+            "title": "1. Uptown (Upper East Side & Upper West Side)",
             "items": [
               {
-                "id": "new-york-dining-and-tips-1-katz-s-delicatessen",
-                "name": "Katz's Delicatessen",
-                "description": "Legendary pastrami on rye in the Lower East Side.",
-                "section": "Page 1: Must-Try Eats",
-                "file": "new-york/dining-and-tips.md",
+                "id": "new-york-food-and-drink-1-glace-snack-dessert-",
+                "name": "**Glace** (Snack / Dessert)",
+                "description": "Ice cream place known for s'mores hot chocolate. *(Location: Upper East Side)*",
+                "section": "1. Uptown (Upper East Side & Upper West Side)",
+                "file": "new-york/food-and-drink.md",
                 "initialChecked": false,
-                "raw": "Katz's Delicatessen: Legendary pastrami on rye in the Lower East Side."
+                "raw": "**Glace** (Snack / Dessert): Ice cream place known for s'mores hot chocolate. *(Location: Upper East Side)*"
               },
               {
-                "id": "new-york-dining-and-tips-2-joe-s-pizza",
-                "name": "Joe's Pizza",
-                "description": "Classic New York slice in Greenwich Village (Carmine St).",
-                "section": "Page 1: Must-Try Eats",
-                "file": "new-york/dining-and-tips.md",
+                "id": "new-york-food-and-drink-2-levain-bakery-snack-dessert-",
+                "name": "**Levain Bakery** (Snack / Dessert)",
+                "description": "Highly rated bakery. Known for its cookies. *(Location: Original is Upper West Side)*",
+                "section": "1. Uptown (Upper East Side & Upper West Side)",
+                "file": "new-york/food-and-drink.md",
                 "initialChecked": false,
-                "raw": "Joe's Pizza: Classic New York slice in Greenwich Village (Carmine St)."
-              },
-              {
-                "id": "new-york-dining-and-tips-3-los-tacos-no-1",
-                "name": "Los Tacos No. 1",
-                "description": "Authentic Tijuana-style tacos in Chelsea Market.",
-                "section": "Page 1: Must-Try Eats",
-                "file": "new-york/dining-and-tips.md",
-                "initialChecked": false,
-                "raw": "Los Tacos No. 1: Authentic Tijuana-style tacos in Chelsea Market."
-              },
-              {
-                "id": "new-york-dining-and-tips-4-levain-bakery",
-                "name": "Levain Bakery",
-                "description": "Famous giant warm chocolate chip cookies on Upper West Side.",
-                "section": "Page 1: Must-Try Eats",
-                "file": "new-york/dining-and-tips.md",
-                "initialChecked": false,
-                "raw": "Levain Bakery: Famous giant warm chocolate chip cookies on Upper West Side."
-              },
-              {
-                "id": "new-york-dining-and-tips-5-russ-daughters",
-                "name": "Russ & Daughters",
-                "description": "Classic Jewish bagels, lox, and babka.",
-                "section": "Page 1: Must-Try Eats",
-                "file": "new-york/dining-and-tips.md",
-                "initialChecked": false,
-                "raw": "Russ & Daughters: Classic Jewish bagels, lox, and babka."
+                "raw": "**Levain Bakery** (Snack / Dessert): Highly rated bakery. Known for its cookies. *(Location: Original is Upper West Side)*"
               }
             ]
           },
           {
-            "id": "section-3-page-2-travel-transit-tips",
-            "title": "Page 2: Travel & Transit Tips",
+            "id": "section-3-2-midtown-core-times-square",
+            "title": "2. Midtown Core & Times Square",
             "items": [
               {
-                "id": "new-york-dining-and-tips-6-subway-omny",
-                "name": "Subway OMNY",
-                "description": "Just tap your phone or contactless card at any subway turnstile.",
-                "section": "Page 2: Travel & Transit Tips",
-                "file": "new-york/dining-and-tips.md",
+                "id": "new-york-food-and-drink-3-rudy-s-bar-and-grill-pub-drinks-",
+                "name": "**Rudy's Bar and Grill** (Pub / Drinks)",
+                "description": "Dive bar with $4 a pint beers in Manhattan near Times Square.",
+                "section": "2. Midtown Core & Times Square",
+                "file": "new-york/food-and-drink.md",
                 "initialChecked": false,
-                "raw": "Subway OMNY: Just tap your phone or contactless card at any subway turnstile."
+                "raw": "**Rudy's Bar and Grill** (Pub / Drinks): Dive bar with $4 a pint beers in Manhattan near Times Square."
               },
               {
-                "id": "new-york-dining-and-tips-7-staten-island-ferry",
-                "name": "Staten Island Ferry",
-                "description": "Free 24/7 scenic boat ride with views of the Statue of Liberty.",
-                "section": "Page 2: Travel & Transit Tips",
-                "file": "new-york/dining-and-tips.md",
+                "id": "new-york-food-and-drink-4-jimmy-s-corner-pub-drinks-",
+                "name": "**Jimmy's Corner** (Pub / Drinks)",
+                "description": "Historic NYC bar near Times Square.",
+                "section": "2. Midtown Core & Times Square",
+                "file": "new-york/food-and-drink.md",
                 "initialChecked": false,
-                "raw": "Staten Island Ferry: Free 24/7 scenic boat ride with views of the Statue of Liberty."
+                "raw": "**Jimmy's Corner** (Pub / Drinks): Historic NYC bar near Times Square."
               },
               {
-                "id": "new-york-dining-and-tips-8-roosevelt-island-tram",
-                "name": "Roosevelt Island Tram",
-                "description": "Uses standard subway fare ($2.90) and offers great skyline views.",
-                "section": "Page 2: Travel & Transit Tips",
-                "file": "new-york/dining-and-tips.md",
+                "id": "new-york-food-and-drink-5-hershey-s-chocolate-world-snack-dessert-",
+                "name": "**Hershey's Chocolate World** (Snack / Dessert)",
+                "description": "Looks a bit like M&M world in London but might be nice to try some Hershey's chocolate.",
+                "section": "2. Midtown Core & Times Square",
+                "file": "new-york/food-and-drink.md",
                 "initialChecked": false,
-                "raw": "Roosevelt Island Tram: Uses standard subway fare ($2.90) and offers great skyline views."
+                "raw": "**Hershey's Chocolate World** (Snack / Dessert): Looks a bit like M&M world in London but might be nice to try some Hershey's chocolate."
+              },
+              {
+                "id": "new-york-food-and-drink-6-liberty-bagels-lunch-dinner-",
+                "name": "**Liberty Bagels** (Lunch / Dinner)",
+                "description": "Another famous bagel spot. *(Location: One near Times Square and one near Wall Street)*",
+                "section": "2. Midtown Core & Times Square",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Liberty Bagels** (Lunch / Dinner): Another famous bagel spot. *(Location: One near Times Square and one near Wall Street)*"
+              }
+            ]
+          },
+          {
+            "id": "section-4-3-chelsea-greenwich-village-west-village",
+            "title": "3. Chelsea, Greenwich Village & West Village",
+            "items": [
+              {
+                "id": "new-york-food-and-drink-7-joe-s-pizza-lunch-dinner-",
+                "name": "**Joe's Pizza** (Lunch / Dinner)",
+                "description": "Go to the one on Carmine Street as it's less busy and the original. *(Location: Greenwich Village)*",
+                "section": "3. Chelsea, Greenwich Village & West Village",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Joe's Pizza** (Lunch / Dinner): Go to the one on Carmine Street as it's less busy and the original. *(Location: Greenwich Village)*"
+              },
+              {
+                "id": "new-york-food-and-drink-8-l-industrie-pizzeria-lunch-dinner-",
+                "name": "**L'industrie Pizzeria** (Lunch / Dinner)",
+                "description": "Another highly rated pizza spot. *(Location: West Village)*",
+                "section": "3. Chelsea, Greenwich Village & West Village",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**L'industrie Pizzeria** (Lunch / Dinner): Another highly rated pizza spot. *(Location: West Village)*"
+              },
+              {
+                "id": "new-york-food-and-drink-9-mama-too-s-lunch-dinner-",
+                "name": "**Mama Too's** (Lunch / Dinner)",
+                "description": "Really good New York / American Pizza (Pie's) and sandwiches. *(Location: West Village location)*",
+                "section": "3. Chelsea, Greenwich Village & West Village",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Mama Too's** (Lunch / Dinner): Really good New York / American Pizza (Pie's) and sandwiches. *(Location: West Village location)*"
+              },
+              {
+                "id": "new-york-food-and-drink-10-magnolia-bakery-snack-dessert-",
+                "name": "**Magnolia Bakery** (Snack / Dessert)",
+                "description": "Famous banana pudding. *(Location: Original is West Village)*",
+                "section": "3. Chelsea, Greenwich Village & West Village",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Magnolia Bakery** (Snack / Dessert): Famous banana pudding. *(Location: Original is West Village)*"
+              },
+              {
+                "id": "new-york-food-and-drink-11-leon-s-bagels-breakfast-lunch-",
+                "name": "**Leon's Bagels** (Breakfast / Lunch)",
+                "description": "Famous bagel spot. *(Location: Prime location in Greenwich Village)*",
+                "section": "3. Chelsea, Greenwich Village & West Village",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Leon's Bagels** (Breakfast / Lunch): Famous bagel spot. *(Location: Prime location in Greenwich Village)*"
+              },
+              {
+                "id": "new-york-food-and-drink-12-los-tacos-no-1-lunch-dinner-",
+                "name": "**Los Tacos No 1** (Lunch / Dinner)",
+                "description": "New York Tacos. *(Location: Original in Chelsea Market)*",
+                "section": "3. Chelsea, Greenwich Village & West Village",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Los Tacos No 1** (Lunch / Dinner): New York Tacos. *(Location: Original in Chelsea Market)*"
+              }
+            ]
+          },
+          {
+            "id": "section-5-4-east-village-lower-east-side-les-",
+            "title": "4. East Village & Lower East Side (LES)",
+            "items": [
+              {
+                "id": "new-york-food-and-drink-13-katz-s-deli-lunch-dinner-",
+                "name": "**Katz's Deli** (Lunch / Dinner)",
+                "description": "Famous pastrami sandwich. *(Location: Lower East Side)*",
+                "section": "4. East Village & Lower East Side (LES)",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Katz's Deli** (Lunch / Dinner): Famous pastrami sandwich. *(Location: Lower East Side)*"
+              },
+              {
+                "id": "new-york-food-and-drink-14-mcsorley-s-pub-drinks-",
+                "name": "**McSorley's** (Pub / Drinks)",
+                "description": "One of the oldest saloons in NYC with cheap drinks. *(Note: This is in the East Village, it is actually quite far from Times Square!)*",
+                "section": "4. East Village & Lower East Side (LES)",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**McSorley's** (Pub / Drinks): One of the oldest saloons in NYC with cheap drinks. *(Note: This is in the East Village, it is actually quite far from Times Square!)*"
+              },
+              {
+                "id": "new-york-food-and-drink-15-7th-street-burger-lunch-dinner-",
+                "name": "**7th Street Burger** (Lunch / Dinner)",
+                "description": "Famous burger spot. *(Location: Original in East Village)*",
+                "section": "4. East Village & Lower East Side (LES)",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**7th Street Burger** (Lunch / Dinner): Famous burger spot. *(Location: Original in East Village)*"
+              },
+              {
+                "id": "new-york-food-and-drink-16-apollo-bagels-lunch-dinner-",
+                "name": "**Apollo Bagels** (Lunch / Dinner)",
+                "description": "Another famous bagel spot. *(Location: East Village)*",
+                "section": "4. East Village & Lower East Side (LES)",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Apollo Bagels** (Lunch / Dinner): Another famous bagel spot. *(Location: East Village)*"
+              },
+              {
+                "id": "new-york-food-and-drink-17-smashy-lunch-dinner-",
+                "name": "**Smashy** (Lunch / Dinner)",
+                "description": "$6 Smash Burgers. *(Location: Lower East Side)*",
+                "section": "4. East Village & Lower East Side (LES)",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Smashy** (Lunch / Dinner): $6 Smash Burgers. *(Location: Lower East Side)*"
+              }
+            ]
+          },
+          {
+            "id": "section-6-5-chinatown-tribeca-financial-district",
+            "title": "5. Chinatown, Tribeca & Financial District",
+            "items": [
+              {
+                "id": "new-york-food-and-drink-18-bubby-s-breakfast-lunch-",
+                "name": "**Bubby's** (Breakfast / Lunch)",
+                "description": "Pancake spot. *(Location: Tribeca)*",
+                "section": "5. Chinatown, Tribeca & Financial District",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Bubby's** (Breakfast / Lunch): Pancake spot. *(Location: Tribeca)*"
+              },
+              {
+                "id": "new-york-food-and-drink-19-mei-lai-wah-lunch-dinner-",
+                "name": "**Mei Lai Wah** (Lunch / Dinner)",
+                "description": "Chinatown bakery. Famous for $3 pork bun. *(Location: Chinatown)*",
+                "section": "5. Chinatown, Tribeca & Financial District",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Mei Lai Wah** (Lunch / Dinner): Chinatown bakery. Famous for $3 pork bun. *(Location: Chinatown)*"
+              },
+              {
+                "id": "new-york-food-and-drink-20-jin-mei-dumplings-lunch-dinner-",
+                "name": "**Jin Mei Dumplings** (Lunch / Dinner)",
+                "description": "Highly rated Chinatown dumplings spot and good value. *(Location: Chinatown)*",
+                "section": "5. Chinatown, Tribeca & Financial District",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Jin Mei Dumplings** (Lunch / Dinner): Highly rated Chinatown dumplings spot and good value. *(Location: Chinatown)*"
+              },
+              {
+                "id": "new-york-food-and-drink-21-169-bar-pub-drinks-",
+                "name": "**169 Bar** (Pub / Drinks)",
+                "description": "Bar near Chinatown. Looks like good value drinks only a few dollars per beer. *(Location: Chinatown / LES border)*",
+                "section": "5. Chinatown, Tribeca & Financial District",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**169 Bar** (Pub / Drinks): Bar near Chinatown. Looks like good value drinks only a few dollars per beer. *(Location: Chinatown / LES border)*"
+              }
+            ]
+          },
+          {
+            "id": "section-7-6-citywide-chains-widespread-locations",
+            "title": "6. Citywide Chains & Widespread Locations",
+            "items": [
+              {
+                "id": "new-york-food-and-drink-22-chick-fil-a-lunch-dinner-",
+                "name": "**Chick-fil-a** (Lunch / Dinner)",
+                "description": "Chain, lots around the city.",
+                "section": "6. Citywide Chains & Widespread Locations",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Chick-fil-a** (Lunch / Dinner): Chain, lots around the city."
+              },
+              {
+                "id": "new-york-food-and-drink-23-raising-canes-lunch-dinner-",
+                "name": "**Raising Canes** (Lunch / Dinner)",
+                "description": "Chain, lots around the city.",
+                "section": "6. Citywide Chains & Widespread Locations",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Raising Canes** (Lunch / Dinner): Chain, lots around the city."
+              },
+              {
+                "id": "new-york-food-and-drink-24-olive-garden-lunch-dinner-",
+                "name": "**Olive Garden** (Lunch / Dinner)",
+                "description": "Chain, lots around the city.",
+                "section": "6. Citywide Chains & Widespread Locations",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Olive Garden** (Lunch / Dinner): Chain, lots around the city."
+              },
+              {
+                "id": "new-york-food-and-drink-25-crumble-cookie-snack-dessert-",
+                "name": "**Crumble Cookie** (Snack / Dessert)",
+                "description": "Chain, lots around the city.",
+                "section": "6. Citywide Chains & Widespread Locations",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Crumble Cookie** (Snack / Dessert): Chain, lots around the city."
+              },
+              {
+                "id": "new-york-food-and-drink-26-ihop-breakfast-lunch-",
+                "name": "**IHOP** (Breakfast / Lunch)",
+                "description": "Famous american diner chain.",
+                "section": "6. Citywide Chains & Widespread Locations",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**IHOP** (Breakfast / Lunch): Famous american diner chain."
+              },
+              {
+                "id": "new-york-food-and-drink-27-lenwich-lunch-dinner-",
+                "name": "**Lenwich** (Lunch / Dinner)",
+                "description": "Highly rated sandwich spot.",
+                "section": "6. Citywide Chains & Widespread Locations",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**Lenwich** (Lunch / Dinner): Highly rated sandwich spot."
+              }
+            ]
+          },
+          {
+            "id": "section-8-7-outside-manhattan",
+            "title": "7. Outside Manhattan",
+            "items": [
+              {
+                "id": "new-york-food-and-drink-28-the-cheesecake-factory-lunch-dinner-",
+                "name": "**The Cheesecake Factory** (Lunch / Dinner)",
+                "description": "Famous american chain, none in Manhattan but one in New Jersey.",
+                "section": "7. Outside Manhattan",
+                "file": "new-york/food-and-drink.md",
+                "initialChecked": false,
+                "raw": "**The Cheesecake Factory** (Lunch / Dinner): Famous american chain, none in Manhattan but one in New Jersey."
               }
             ]
           }
         ],
         "items": [
           {
-            "id": "new-york-dining-and-tips-1-katz-s-delicatessen",
-            "name": "Katz's Delicatessen",
-            "description": "Legendary pastrami on rye in the Lower East Side.",
-            "section": "Page 1: Must-Try Eats",
-            "file": "new-york/dining-and-tips.md",
+            "id": "new-york-food-and-drink-1-glace-snack-dessert-",
+            "name": "**Glace** (Snack / Dessert)",
+            "description": "Ice cream place known for s'mores hot chocolate. *(Location: Upper East Side)*",
+            "section": "1. Uptown (Upper East Side & Upper West Side)",
+            "file": "new-york/food-and-drink.md",
             "initialChecked": false,
-            "raw": "Katz's Delicatessen: Legendary pastrami on rye in the Lower East Side."
+            "raw": "**Glace** (Snack / Dessert): Ice cream place known for s'mores hot chocolate. *(Location: Upper East Side)*"
           },
           {
-            "id": "new-york-dining-and-tips-2-joe-s-pizza",
-            "name": "Joe's Pizza",
-            "description": "Classic New York slice in Greenwich Village (Carmine St).",
-            "section": "Page 1: Must-Try Eats",
-            "file": "new-york/dining-and-tips.md",
+            "id": "new-york-food-and-drink-2-levain-bakery-snack-dessert-",
+            "name": "**Levain Bakery** (Snack / Dessert)",
+            "description": "Highly rated bakery. Known for its cookies. *(Location: Original is Upper West Side)*",
+            "section": "1. Uptown (Upper East Side & Upper West Side)",
+            "file": "new-york/food-and-drink.md",
             "initialChecked": false,
-            "raw": "Joe's Pizza: Classic New York slice in Greenwich Village (Carmine St)."
+            "raw": "**Levain Bakery** (Snack / Dessert): Highly rated bakery. Known for its cookies. *(Location: Original is Upper West Side)*"
           },
           {
-            "id": "new-york-dining-and-tips-3-los-tacos-no-1",
-            "name": "Los Tacos No. 1",
-            "description": "Authentic Tijuana-style tacos in Chelsea Market.",
-            "section": "Page 1: Must-Try Eats",
-            "file": "new-york/dining-and-tips.md",
+            "id": "new-york-food-and-drink-3-rudy-s-bar-and-grill-pub-drinks-",
+            "name": "**Rudy's Bar and Grill** (Pub / Drinks)",
+            "description": "Dive bar with $4 a pint beers in Manhattan near Times Square.",
+            "section": "2. Midtown Core & Times Square",
+            "file": "new-york/food-and-drink.md",
             "initialChecked": false,
-            "raw": "Los Tacos No. 1: Authentic Tijuana-style tacos in Chelsea Market."
+            "raw": "**Rudy's Bar and Grill** (Pub / Drinks): Dive bar with $4 a pint beers in Manhattan near Times Square."
           },
           {
-            "id": "new-york-dining-and-tips-4-levain-bakery",
-            "name": "Levain Bakery",
-            "description": "Famous giant warm chocolate chip cookies on Upper West Side.",
-            "section": "Page 1: Must-Try Eats",
-            "file": "new-york/dining-and-tips.md",
+            "id": "new-york-food-and-drink-4-jimmy-s-corner-pub-drinks-",
+            "name": "**Jimmy's Corner** (Pub / Drinks)",
+            "description": "Historic NYC bar near Times Square.",
+            "section": "2. Midtown Core & Times Square",
+            "file": "new-york/food-and-drink.md",
             "initialChecked": false,
-            "raw": "Levain Bakery: Famous giant warm chocolate chip cookies on Upper West Side."
+            "raw": "**Jimmy's Corner** (Pub / Drinks): Historic NYC bar near Times Square."
           },
           {
-            "id": "new-york-dining-and-tips-5-russ-daughters",
-            "name": "Russ & Daughters",
-            "description": "Classic Jewish bagels, lox, and babka.",
-            "section": "Page 1: Must-Try Eats",
-            "file": "new-york/dining-and-tips.md",
+            "id": "new-york-food-and-drink-5-hershey-s-chocolate-world-snack-dessert-",
+            "name": "**Hershey's Chocolate World** (Snack / Dessert)",
+            "description": "Looks a bit like M&M world in London but might be nice to try some Hershey's chocolate.",
+            "section": "2. Midtown Core & Times Square",
+            "file": "new-york/food-and-drink.md",
             "initialChecked": false,
-            "raw": "Russ & Daughters: Classic Jewish bagels, lox, and babka."
+            "raw": "**Hershey's Chocolate World** (Snack / Dessert): Looks a bit like M&M world in London but might be nice to try some Hershey's chocolate."
           },
           {
-            "id": "new-york-dining-and-tips-6-subway-omny",
-            "name": "Subway OMNY",
-            "description": "Just tap your phone or contactless card at any subway turnstile.",
-            "section": "Page 2: Travel & Transit Tips",
-            "file": "new-york/dining-and-tips.md",
+            "id": "new-york-food-and-drink-6-liberty-bagels-lunch-dinner-",
+            "name": "**Liberty Bagels** (Lunch / Dinner)",
+            "description": "Another famous bagel spot. *(Location: One near Times Square and one near Wall Street)*",
+            "section": "2. Midtown Core & Times Square",
+            "file": "new-york/food-and-drink.md",
             "initialChecked": false,
-            "raw": "Subway OMNY: Just tap your phone or contactless card at any subway turnstile."
+            "raw": "**Liberty Bagels** (Lunch / Dinner): Another famous bagel spot. *(Location: One near Times Square and one near Wall Street)*"
           },
           {
-            "id": "new-york-dining-and-tips-7-staten-island-ferry",
-            "name": "Staten Island Ferry",
-            "description": "Free 24/7 scenic boat ride with views of the Statue of Liberty.",
-            "section": "Page 2: Travel & Transit Tips",
-            "file": "new-york/dining-and-tips.md",
+            "id": "new-york-food-and-drink-7-joe-s-pizza-lunch-dinner-",
+            "name": "**Joe's Pizza** (Lunch / Dinner)",
+            "description": "Go to the one on Carmine Street as it's less busy and the original. *(Location: Greenwich Village)*",
+            "section": "3. Chelsea, Greenwich Village & West Village",
+            "file": "new-york/food-and-drink.md",
             "initialChecked": false,
-            "raw": "Staten Island Ferry: Free 24/7 scenic boat ride with views of the Statue of Liberty."
+            "raw": "**Joe's Pizza** (Lunch / Dinner): Go to the one on Carmine Street as it's less busy and the original. *(Location: Greenwich Village)*"
           },
           {
-            "id": "new-york-dining-and-tips-8-roosevelt-island-tram",
-            "name": "Roosevelt Island Tram",
-            "description": "Uses standard subway fare ($2.90) and offers great skyline views.",
-            "section": "Page 2: Travel & Transit Tips",
-            "file": "new-york/dining-and-tips.md",
+            "id": "new-york-food-and-drink-8-l-industrie-pizzeria-lunch-dinner-",
+            "name": "**L'industrie Pizzeria** (Lunch / Dinner)",
+            "description": "Another highly rated pizza spot. *(Location: West Village)*",
+            "section": "3. Chelsea, Greenwich Village & West Village",
+            "file": "new-york/food-and-drink.md",
             "initialChecked": false,
-            "raw": "Roosevelt Island Tram: Uses standard subway fare ($2.90) and offers great skyline views."
+            "raw": "**L'industrie Pizzeria** (Lunch / Dinner): Another highly rated pizza spot. *(Location: West Village)*"
+          },
+          {
+            "id": "new-york-food-and-drink-9-mama-too-s-lunch-dinner-",
+            "name": "**Mama Too's** (Lunch / Dinner)",
+            "description": "Really good New York / American Pizza (Pie's) and sandwiches. *(Location: West Village location)*",
+            "section": "3. Chelsea, Greenwich Village & West Village",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Mama Too's** (Lunch / Dinner): Really good New York / American Pizza (Pie's) and sandwiches. *(Location: West Village location)*"
+          },
+          {
+            "id": "new-york-food-and-drink-10-magnolia-bakery-snack-dessert-",
+            "name": "**Magnolia Bakery** (Snack / Dessert)",
+            "description": "Famous banana pudding. *(Location: Original is West Village)*",
+            "section": "3. Chelsea, Greenwich Village & West Village",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Magnolia Bakery** (Snack / Dessert): Famous banana pudding. *(Location: Original is West Village)*"
+          },
+          {
+            "id": "new-york-food-and-drink-11-leon-s-bagels-breakfast-lunch-",
+            "name": "**Leon's Bagels** (Breakfast / Lunch)",
+            "description": "Famous bagel spot. *(Location: Prime location in Greenwich Village)*",
+            "section": "3. Chelsea, Greenwich Village & West Village",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Leon's Bagels** (Breakfast / Lunch): Famous bagel spot. *(Location: Prime location in Greenwich Village)*"
+          },
+          {
+            "id": "new-york-food-and-drink-12-los-tacos-no-1-lunch-dinner-",
+            "name": "**Los Tacos No 1** (Lunch / Dinner)",
+            "description": "New York Tacos. *(Location: Original in Chelsea Market)*",
+            "section": "3. Chelsea, Greenwich Village & West Village",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Los Tacos No 1** (Lunch / Dinner): New York Tacos. *(Location: Original in Chelsea Market)*"
+          },
+          {
+            "id": "new-york-food-and-drink-13-katz-s-deli-lunch-dinner-",
+            "name": "**Katz's Deli** (Lunch / Dinner)",
+            "description": "Famous pastrami sandwich. *(Location: Lower East Side)*",
+            "section": "4. East Village & Lower East Side (LES)",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Katz's Deli** (Lunch / Dinner): Famous pastrami sandwich. *(Location: Lower East Side)*"
+          },
+          {
+            "id": "new-york-food-and-drink-14-mcsorley-s-pub-drinks-",
+            "name": "**McSorley's** (Pub / Drinks)",
+            "description": "One of the oldest saloons in NYC with cheap drinks. *(Note: This is in the East Village, it is actually quite far from Times Square!)*",
+            "section": "4. East Village & Lower East Side (LES)",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**McSorley's** (Pub / Drinks): One of the oldest saloons in NYC with cheap drinks. *(Note: This is in the East Village, it is actually quite far from Times Square!)*"
+          },
+          {
+            "id": "new-york-food-and-drink-15-7th-street-burger-lunch-dinner-",
+            "name": "**7th Street Burger** (Lunch / Dinner)",
+            "description": "Famous burger spot. *(Location: Original in East Village)*",
+            "section": "4. East Village & Lower East Side (LES)",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**7th Street Burger** (Lunch / Dinner): Famous burger spot. *(Location: Original in East Village)*"
+          },
+          {
+            "id": "new-york-food-and-drink-16-apollo-bagels-lunch-dinner-",
+            "name": "**Apollo Bagels** (Lunch / Dinner)",
+            "description": "Another famous bagel spot. *(Location: East Village)*",
+            "section": "4. East Village & Lower East Side (LES)",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Apollo Bagels** (Lunch / Dinner): Another famous bagel spot. *(Location: East Village)*"
+          },
+          {
+            "id": "new-york-food-and-drink-17-smashy-lunch-dinner-",
+            "name": "**Smashy** (Lunch / Dinner)",
+            "description": "$6 Smash Burgers. *(Location: Lower East Side)*",
+            "section": "4. East Village & Lower East Side (LES)",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Smashy** (Lunch / Dinner): $6 Smash Burgers. *(Location: Lower East Side)*"
+          },
+          {
+            "id": "new-york-food-and-drink-18-bubby-s-breakfast-lunch-",
+            "name": "**Bubby's** (Breakfast / Lunch)",
+            "description": "Pancake spot. *(Location: Tribeca)*",
+            "section": "5. Chinatown, Tribeca & Financial District",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Bubby's** (Breakfast / Lunch): Pancake spot. *(Location: Tribeca)*"
+          },
+          {
+            "id": "new-york-food-and-drink-19-mei-lai-wah-lunch-dinner-",
+            "name": "**Mei Lai Wah** (Lunch / Dinner)",
+            "description": "Chinatown bakery. Famous for $3 pork bun. *(Location: Chinatown)*",
+            "section": "5. Chinatown, Tribeca & Financial District",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Mei Lai Wah** (Lunch / Dinner): Chinatown bakery. Famous for $3 pork bun. *(Location: Chinatown)*"
+          },
+          {
+            "id": "new-york-food-and-drink-20-jin-mei-dumplings-lunch-dinner-",
+            "name": "**Jin Mei Dumplings** (Lunch / Dinner)",
+            "description": "Highly rated Chinatown dumplings spot and good value. *(Location: Chinatown)*",
+            "section": "5. Chinatown, Tribeca & Financial District",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Jin Mei Dumplings** (Lunch / Dinner): Highly rated Chinatown dumplings spot and good value. *(Location: Chinatown)*"
+          },
+          {
+            "id": "new-york-food-and-drink-21-169-bar-pub-drinks-",
+            "name": "**169 Bar** (Pub / Drinks)",
+            "description": "Bar near Chinatown. Looks like good value drinks only a few dollars per beer. *(Location: Chinatown / LES border)*",
+            "section": "5. Chinatown, Tribeca & Financial District",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**169 Bar** (Pub / Drinks): Bar near Chinatown. Looks like good value drinks only a few dollars per beer. *(Location: Chinatown / LES border)*"
+          },
+          {
+            "id": "new-york-food-and-drink-22-chick-fil-a-lunch-dinner-",
+            "name": "**Chick-fil-a** (Lunch / Dinner)",
+            "description": "Chain, lots around the city.",
+            "section": "6. Citywide Chains & Widespread Locations",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Chick-fil-a** (Lunch / Dinner): Chain, lots around the city."
+          },
+          {
+            "id": "new-york-food-and-drink-23-raising-canes-lunch-dinner-",
+            "name": "**Raising Canes** (Lunch / Dinner)",
+            "description": "Chain, lots around the city.",
+            "section": "6. Citywide Chains & Widespread Locations",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Raising Canes** (Lunch / Dinner): Chain, lots around the city."
+          },
+          {
+            "id": "new-york-food-and-drink-24-olive-garden-lunch-dinner-",
+            "name": "**Olive Garden** (Lunch / Dinner)",
+            "description": "Chain, lots around the city.",
+            "section": "6. Citywide Chains & Widespread Locations",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Olive Garden** (Lunch / Dinner): Chain, lots around the city."
+          },
+          {
+            "id": "new-york-food-and-drink-25-crumble-cookie-snack-dessert-",
+            "name": "**Crumble Cookie** (Snack / Dessert)",
+            "description": "Chain, lots around the city.",
+            "section": "6. Citywide Chains & Widespread Locations",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Crumble Cookie** (Snack / Dessert): Chain, lots around the city."
+          },
+          {
+            "id": "new-york-food-and-drink-26-ihop-breakfast-lunch-",
+            "name": "**IHOP** (Breakfast / Lunch)",
+            "description": "Famous american diner chain.",
+            "section": "6. Citywide Chains & Widespread Locations",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**IHOP** (Breakfast / Lunch): Famous american diner chain."
+          },
+          {
+            "id": "new-york-food-and-drink-27-lenwich-lunch-dinner-",
+            "name": "**Lenwich** (Lunch / Dinner)",
+            "description": "Highly rated sandwich spot.",
+            "section": "6. Citywide Chains & Widespread Locations",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**Lenwich** (Lunch / Dinner): Highly rated sandwich spot."
+          },
+          {
+            "id": "new-york-food-and-drink-28-the-cheesecake-factory-lunch-dinner-",
+            "name": "**The Cheesecake Factory** (Lunch / Dinner)",
+            "description": "Famous american chain, none in Manhattan but one in New Jersey.",
+            "section": "7. Outside Manhattan",
+            "file": "new-york/food-and-drink.md",
+            "initialChecked": false,
+            "raw": "**The Cheesecake Factory** (Lunch / Dinner): Famous american chain, none in Manhattan but one in New Jersey."
           }
         ]
       },
@@ -818,80 +1208,260 @@
         ]
       }
     ],
-    "totalItems": 41,
-    "totalSections": 9,
+    "totalItems": 61,
+    "totalSections": 14,
     "items": [
       {
-        "id": "new-york-dining-and-tips-1-katz-s-delicatessen",
-        "name": "Katz's Delicatessen",
-        "description": "Legendary pastrami on rye in the Lower East Side.",
-        "section": "Page 1: Must-Try Eats",
-        "file": "new-york/dining-and-tips.md",
+        "id": "new-york-food-and-drink-1-glace-snack-dessert-",
+        "name": "**Glace** (Snack / Dessert)",
+        "description": "Ice cream place known for s'mores hot chocolate. *(Location: Upper East Side)*",
+        "section": "1. Uptown (Upper East Side & Upper West Side)",
+        "file": "new-york/food-and-drink.md",
         "initialChecked": false,
-        "raw": "Katz's Delicatessen: Legendary pastrami on rye in the Lower East Side."
+        "raw": "**Glace** (Snack / Dessert): Ice cream place known for s'mores hot chocolate. *(Location: Upper East Side)*"
       },
       {
-        "id": "new-york-dining-and-tips-2-joe-s-pizza",
-        "name": "Joe's Pizza",
-        "description": "Classic New York slice in Greenwich Village (Carmine St).",
-        "section": "Page 1: Must-Try Eats",
-        "file": "new-york/dining-and-tips.md",
+        "id": "new-york-food-and-drink-2-levain-bakery-snack-dessert-",
+        "name": "**Levain Bakery** (Snack / Dessert)",
+        "description": "Highly rated bakery. Known for its cookies. *(Location: Original is Upper West Side)*",
+        "section": "1. Uptown (Upper East Side & Upper West Side)",
+        "file": "new-york/food-and-drink.md",
         "initialChecked": false,
-        "raw": "Joe's Pizza: Classic New York slice in Greenwich Village (Carmine St)."
+        "raw": "**Levain Bakery** (Snack / Dessert): Highly rated bakery. Known for its cookies. *(Location: Original is Upper West Side)*"
       },
       {
-        "id": "new-york-dining-and-tips-3-los-tacos-no-1",
-        "name": "Los Tacos No. 1",
-        "description": "Authentic Tijuana-style tacos in Chelsea Market.",
-        "section": "Page 1: Must-Try Eats",
-        "file": "new-york/dining-and-tips.md",
+        "id": "new-york-food-and-drink-3-rudy-s-bar-and-grill-pub-drinks-",
+        "name": "**Rudy's Bar and Grill** (Pub / Drinks)",
+        "description": "Dive bar with $4 a pint beers in Manhattan near Times Square.",
+        "section": "2. Midtown Core & Times Square",
+        "file": "new-york/food-and-drink.md",
         "initialChecked": false,
-        "raw": "Los Tacos No. 1: Authentic Tijuana-style tacos in Chelsea Market."
+        "raw": "**Rudy's Bar and Grill** (Pub / Drinks): Dive bar with $4 a pint beers in Manhattan near Times Square."
       },
       {
-        "id": "new-york-dining-and-tips-4-levain-bakery",
-        "name": "Levain Bakery",
-        "description": "Famous giant warm chocolate chip cookies on Upper West Side.",
-        "section": "Page 1: Must-Try Eats",
-        "file": "new-york/dining-and-tips.md",
+        "id": "new-york-food-and-drink-4-jimmy-s-corner-pub-drinks-",
+        "name": "**Jimmy's Corner** (Pub / Drinks)",
+        "description": "Historic NYC bar near Times Square.",
+        "section": "2. Midtown Core & Times Square",
+        "file": "new-york/food-and-drink.md",
         "initialChecked": false,
-        "raw": "Levain Bakery: Famous giant warm chocolate chip cookies on Upper West Side."
+        "raw": "**Jimmy's Corner** (Pub / Drinks): Historic NYC bar near Times Square."
       },
       {
-        "id": "new-york-dining-and-tips-5-russ-daughters",
-        "name": "Russ & Daughters",
-        "description": "Classic Jewish bagels, lox, and babka.",
-        "section": "Page 1: Must-Try Eats",
-        "file": "new-york/dining-and-tips.md",
+        "id": "new-york-food-and-drink-5-hershey-s-chocolate-world-snack-dessert-",
+        "name": "**Hershey's Chocolate World** (Snack / Dessert)",
+        "description": "Looks a bit like M&M world in London but might be nice to try some Hershey's chocolate.",
+        "section": "2. Midtown Core & Times Square",
+        "file": "new-york/food-and-drink.md",
         "initialChecked": false,
-        "raw": "Russ & Daughters: Classic Jewish bagels, lox, and babka."
+        "raw": "**Hershey's Chocolate World** (Snack / Dessert): Looks a bit like M&M world in London but might be nice to try some Hershey's chocolate."
       },
       {
-        "id": "new-york-dining-and-tips-6-subway-omny",
-        "name": "Subway OMNY",
-        "description": "Just tap your phone or contactless card at any subway turnstile.",
-        "section": "Page 2: Travel & Transit Tips",
-        "file": "new-york/dining-and-tips.md",
+        "id": "new-york-food-and-drink-6-liberty-bagels-lunch-dinner-",
+        "name": "**Liberty Bagels** (Lunch / Dinner)",
+        "description": "Another famous bagel spot. *(Location: One near Times Square and one near Wall Street)*",
+        "section": "2. Midtown Core & Times Square",
+        "file": "new-york/food-and-drink.md",
         "initialChecked": false,
-        "raw": "Subway OMNY: Just tap your phone or contactless card at any subway turnstile."
+        "raw": "**Liberty Bagels** (Lunch / Dinner): Another famous bagel spot. *(Location: One near Times Square and one near Wall Street)*"
       },
       {
-        "id": "new-york-dining-and-tips-7-staten-island-ferry",
-        "name": "Staten Island Ferry",
-        "description": "Free 24/7 scenic boat ride with views of the Statue of Liberty.",
-        "section": "Page 2: Travel & Transit Tips",
-        "file": "new-york/dining-and-tips.md",
+        "id": "new-york-food-and-drink-7-joe-s-pizza-lunch-dinner-",
+        "name": "**Joe's Pizza** (Lunch / Dinner)",
+        "description": "Go to the one on Carmine Street as it's less busy and the original. *(Location: Greenwich Village)*",
+        "section": "3. Chelsea, Greenwich Village & West Village",
+        "file": "new-york/food-and-drink.md",
         "initialChecked": false,
-        "raw": "Staten Island Ferry: Free 24/7 scenic boat ride with views of the Statue of Liberty."
+        "raw": "**Joe's Pizza** (Lunch / Dinner): Go to the one on Carmine Street as it's less busy and the original. *(Location: Greenwich Village)*"
       },
       {
-        "id": "new-york-dining-and-tips-8-roosevelt-island-tram",
-        "name": "Roosevelt Island Tram",
-        "description": "Uses standard subway fare ($2.90) and offers great skyline views.",
-        "section": "Page 2: Travel & Transit Tips",
-        "file": "new-york/dining-and-tips.md",
+        "id": "new-york-food-and-drink-8-l-industrie-pizzeria-lunch-dinner-",
+        "name": "**L'industrie Pizzeria** (Lunch / Dinner)",
+        "description": "Another highly rated pizza spot. *(Location: West Village)*",
+        "section": "3. Chelsea, Greenwich Village & West Village",
+        "file": "new-york/food-and-drink.md",
         "initialChecked": false,
-        "raw": "Roosevelt Island Tram: Uses standard subway fare ($2.90) and offers great skyline views."
+        "raw": "**L'industrie Pizzeria** (Lunch / Dinner): Another highly rated pizza spot. *(Location: West Village)*"
+      },
+      {
+        "id": "new-york-food-and-drink-9-mama-too-s-lunch-dinner-",
+        "name": "**Mama Too's** (Lunch / Dinner)",
+        "description": "Really good New York / American Pizza (Pie's) and sandwiches. *(Location: West Village location)*",
+        "section": "3. Chelsea, Greenwich Village & West Village",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Mama Too's** (Lunch / Dinner): Really good New York / American Pizza (Pie's) and sandwiches. *(Location: West Village location)*"
+      },
+      {
+        "id": "new-york-food-and-drink-10-magnolia-bakery-snack-dessert-",
+        "name": "**Magnolia Bakery** (Snack / Dessert)",
+        "description": "Famous banana pudding. *(Location: Original is West Village)*",
+        "section": "3. Chelsea, Greenwich Village & West Village",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Magnolia Bakery** (Snack / Dessert): Famous banana pudding. *(Location: Original is West Village)*"
+      },
+      {
+        "id": "new-york-food-and-drink-11-leon-s-bagels-breakfast-lunch-",
+        "name": "**Leon's Bagels** (Breakfast / Lunch)",
+        "description": "Famous bagel spot. *(Location: Prime location in Greenwich Village)*",
+        "section": "3. Chelsea, Greenwich Village & West Village",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Leon's Bagels** (Breakfast / Lunch): Famous bagel spot. *(Location: Prime location in Greenwich Village)*"
+      },
+      {
+        "id": "new-york-food-and-drink-12-los-tacos-no-1-lunch-dinner-",
+        "name": "**Los Tacos No 1** (Lunch / Dinner)",
+        "description": "New York Tacos. *(Location: Original in Chelsea Market)*",
+        "section": "3. Chelsea, Greenwich Village & West Village",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Los Tacos No 1** (Lunch / Dinner): New York Tacos. *(Location: Original in Chelsea Market)*"
+      },
+      {
+        "id": "new-york-food-and-drink-13-katz-s-deli-lunch-dinner-",
+        "name": "**Katz's Deli** (Lunch / Dinner)",
+        "description": "Famous pastrami sandwich. *(Location: Lower East Side)*",
+        "section": "4. East Village & Lower East Side (LES)",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Katz's Deli** (Lunch / Dinner): Famous pastrami sandwich. *(Location: Lower East Side)*"
+      },
+      {
+        "id": "new-york-food-and-drink-14-mcsorley-s-pub-drinks-",
+        "name": "**McSorley's** (Pub / Drinks)",
+        "description": "One of the oldest saloons in NYC with cheap drinks. *(Note: This is in the East Village, it is actually quite far from Times Square!)*",
+        "section": "4. East Village & Lower East Side (LES)",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**McSorley's** (Pub / Drinks): One of the oldest saloons in NYC with cheap drinks. *(Note: This is in the East Village, it is actually quite far from Times Square!)*"
+      },
+      {
+        "id": "new-york-food-and-drink-15-7th-street-burger-lunch-dinner-",
+        "name": "**7th Street Burger** (Lunch / Dinner)",
+        "description": "Famous burger spot. *(Location: Original in East Village)*",
+        "section": "4. East Village & Lower East Side (LES)",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**7th Street Burger** (Lunch / Dinner): Famous burger spot. *(Location: Original in East Village)*"
+      },
+      {
+        "id": "new-york-food-and-drink-16-apollo-bagels-lunch-dinner-",
+        "name": "**Apollo Bagels** (Lunch / Dinner)",
+        "description": "Another famous bagel spot. *(Location: East Village)*",
+        "section": "4. East Village & Lower East Side (LES)",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Apollo Bagels** (Lunch / Dinner): Another famous bagel spot. *(Location: East Village)*"
+      },
+      {
+        "id": "new-york-food-and-drink-17-smashy-lunch-dinner-",
+        "name": "**Smashy** (Lunch / Dinner)",
+        "description": "$6 Smash Burgers. *(Location: Lower East Side)*",
+        "section": "4. East Village & Lower East Side (LES)",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Smashy** (Lunch / Dinner): $6 Smash Burgers. *(Location: Lower East Side)*"
+      },
+      {
+        "id": "new-york-food-and-drink-18-bubby-s-breakfast-lunch-",
+        "name": "**Bubby's** (Breakfast / Lunch)",
+        "description": "Pancake spot. *(Location: Tribeca)*",
+        "section": "5. Chinatown, Tribeca & Financial District",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Bubby's** (Breakfast / Lunch): Pancake spot. *(Location: Tribeca)*"
+      },
+      {
+        "id": "new-york-food-and-drink-19-mei-lai-wah-lunch-dinner-",
+        "name": "**Mei Lai Wah** (Lunch / Dinner)",
+        "description": "Chinatown bakery. Famous for $3 pork bun. *(Location: Chinatown)*",
+        "section": "5. Chinatown, Tribeca & Financial District",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Mei Lai Wah** (Lunch / Dinner): Chinatown bakery. Famous for $3 pork bun. *(Location: Chinatown)*"
+      },
+      {
+        "id": "new-york-food-and-drink-20-jin-mei-dumplings-lunch-dinner-",
+        "name": "**Jin Mei Dumplings** (Lunch / Dinner)",
+        "description": "Highly rated Chinatown dumplings spot and good value. *(Location: Chinatown)*",
+        "section": "5. Chinatown, Tribeca & Financial District",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Jin Mei Dumplings** (Lunch / Dinner): Highly rated Chinatown dumplings spot and good value. *(Location: Chinatown)*"
+      },
+      {
+        "id": "new-york-food-and-drink-21-169-bar-pub-drinks-",
+        "name": "**169 Bar** (Pub / Drinks)",
+        "description": "Bar near Chinatown. Looks like good value drinks only a few dollars per beer. *(Location: Chinatown / LES border)*",
+        "section": "5. Chinatown, Tribeca & Financial District",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**169 Bar** (Pub / Drinks): Bar near Chinatown. Looks like good value drinks only a few dollars per beer. *(Location: Chinatown / LES border)*"
+      },
+      {
+        "id": "new-york-food-and-drink-22-chick-fil-a-lunch-dinner-",
+        "name": "**Chick-fil-a** (Lunch / Dinner)",
+        "description": "Chain, lots around the city.",
+        "section": "6. Citywide Chains & Widespread Locations",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Chick-fil-a** (Lunch / Dinner): Chain, lots around the city."
+      },
+      {
+        "id": "new-york-food-and-drink-23-raising-canes-lunch-dinner-",
+        "name": "**Raising Canes** (Lunch / Dinner)",
+        "description": "Chain, lots around the city.",
+        "section": "6. Citywide Chains & Widespread Locations",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Raising Canes** (Lunch / Dinner): Chain, lots around the city."
+      },
+      {
+        "id": "new-york-food-and-drink-24-olive-garden-lunch-dinner-",
+        "name": "**Olive Garden** (Lunch / Dinner)",
+        "description": "Chain, lots around the city.",
+        "section": "6. Citywide Chains & Widespread Locations",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Olive Garden** (Lunch / Dinner): Chain, lots around the city."
+      },
+      {
+        "id": "new-york-food-and-drink-25-crumble-cookie-snack-dessert-",
+        "name": "**Crumble Cookie** (Snack / Dessert)",
+        "description": "Chain, lots around the city.",
+        "section": "6. Citywide Chains & Widespread Locations",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Crumble Cookie** (Snack / Dessert): Chain, lots around the city."
+      },
+      {
+        "id": "new-york-food-and-drink-26-ihop-breakfast-lunch-",
+        "name": "**IHOP** (Breakfast / Lunch)",
+        "description": "Famous american diner chain.",
+        "section": "6. Citywide Chains & Widespread Locations",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**IHOP** (Breakfast / Lunch): Famous american diner chain."
+      },
+      {
+        "id": "new-york-food-and-drink-27-lenwich-lunch-dinner-",
+        "name": "**Lenwich** (Lunch / Dinner)",
+        "description": "Highly rated sandwich spot.",
+        "section": "6. Citywide Chains & Widespread Locations",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**Lenwich** (Lunch / Dinner): Highly rated sandwich spot."
+      },
+      {
+        "id": "new-york-food-and-drink-28-the-cheesecake-factory-lunch-dinner-",
+        "name": "**The Cheesecake Factory** (Lunch / Dinner)",
+        "description": "Famous american chain, none in Manhattan but one in New Jersey.",
+        "section": "7. Outside Manhattan",
+        "file": "new-york/food-and-drink.md",
+        "initialChecked": false,
+        "raw": "**The Cheesecake Factory** (Lunch / Dinner): Famous american chain, none in Manhattan but one in New Jersey."
       },
       {
         "id": "new-york-new-york-1-one-world-trade-center",
@@ -1189,283 +1759,6 @@
         "file": "new-york/new-york.md",
         "initialChecked": false,
         "raw": "Pier 35: View of both Brooklyn and Manhattan bridges from Manhattan side."
-      }
-    ]
-  },
-  {
-    "id": "tokyo",
-    "slug": "tokyo",
-    "title": "Tokyo",
-    "folder": "tokyo",
-    "files": [
-      {
-        "filename": "tokyo-itinerary.md",
-        "relativePath": "tokyo/tokyo-itinerary.md",
-        "title": "Tokyo Exploration",
-        "rawContent": "# Tokyo Exploration\n\n## Day 1: Shibuya & Shinjuku\n\n- Shibuya Crossing: The world's busiest pedestrian crossing outside Hachiko exit.\n- Shibuya Sky: 360-degree open-air observation deck on top of Scramble Square.\n- Meiji Jingu: Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya.\n- Omoide Yokocho: Nostalgic narrow alleyway in Shinjuku with yakitori stalls.\n- Tokyo Metropolitan Government Building: Free panoramic observatory on the 45th floor.\n\n## Day 2: Asakusa & Akihabara\n\n- Senso-ji Temple: Tokyo's oldest Buddhist temple in historic Asakusa.\n- Nakamise Shopping Street: Traditional snacks and souvenirs leading up to Senso-ji.\n- Akihabara Electric Town: Hub for retro gaming, electronics, and anime culture.\n- Kanda Myojin Shrine: Ancient shrine patron of Tokyo and tech gadgets.\n",
-        "sections": [
-          {
-            "id": "section-2-day-1-shibuya-shinjuku",
-            "title": "Day 1: Shibuya & Shinjuku",
-            "items": [
-              {
-                "id": "tokyo-tokyo-itinerary-1-shibuya-crossing",
-                "name": "Shibuya Crossing",
-                "description": "The world's busiest pedestrian crossing outside Hachiko exit.",
-                "section": "Day 1: Shibuya & Shinjuku",
-                "file": "tokyo/tokyo-itinerary.md",
-                "initialChecked": false,
-                "raw": "Shibuya Crossing: The world's busiest pedestrian crossing outside Hachiko exit."
-              },
-              {
-                "id": "tokyo-tokyo-itinerary-2-shibuya-sky",
-                "name": "Shibuya Sky",
-                "description": "360-degree open-air observation deck on top of Scramble Square.",
-                "section": "Day 1: Shibuya & Shinjuku",
-                "file": "tokyo/tokyo-itinerary.md",
-                "initialChecked": false,
-                "raw": "Shibuya Sky: 360-degree open-air observation deck on top of Scramble Square."
-              },
-              {
-                "id": "tokyo-tokyo-itinerary-3-meiji-jingu",
-                "name": "Meiji Jingu",
-                "description": "Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya.",
-                "section": "Day 1: Shibuya & Shinjuku",
-                "file": "tokyo/tokyo-itinerary.md",
-                "initialChecked": false,
-                "raw": "Meiji Jingu: Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya."
-              },
-              {
-                "id": "tokyo-tokyo-itinerary-4-omoide-yokocho",
-                "name": "Omoide Yokocho",
-                "description": "Nostalgic narrow alleyway in Shinjuku with yakitori stalls.",
-                "section": "Day 1: Shibuya & Shinjuku",
-                "file": "tokyo/tokyo-itinerary.md",
-                "initialChecked": false,
-                "raw": "Omoide Yokocho: Nostalgic narrow alleyway in Shinjuku with yakitori stalls."
-              },
-              {
-                "id": "tokyo-tokyo-itinerary-5-tokyo-metropolitan-government-building",
-                "name": "Tokyo Metropolitan Government Building",
-                "description": "Free panoramic observatory on the 45th floor.",
-                "section": "Day 1: Shibuya & Shinjuku",
-                "file": "tokyo/tokyo-itinerary.md",
-                "initialChecked": false,
-                "raw": "Tokyo Metropolitan Government Building: Free panoramic observatory on the 45th floor."
-              }
-            ]
-          },
-          {
-            "id": "section-3-day-2-asakusa-akihabara",
-            "title": "Day 2: Asakusa & Akihabara",
-            "items": [
-              {
-                "id": "tokyo-tokyo-itinerary-6-senso-ji-temple",
-                "name": "Senso-ji Temple",
-                "description": "Tokyo's oldest Buddhist temple in historic Asakusa.",
-                "section": "Day 2: Asakusa & Akihabara",
-                "file": "tokyo/tokyo-itinerary.md",
-                "initialChecked": false,
-                "raw": "Senso-ji Temple: Tokyo's oldest Buddhist temple in historic Asakusa."
-              },
-              {
-                "id": "tokyo-tokyo-itinerary-7-nakamise-shopping-street",
-                "name": "Nakamise Shopping Street",
-                "description": "Traditional snacks and souvenirs leading up to Senso-ji.",
-                "section": "Day 2: Asakusa & Akihabara",
-                "file": "tokyo/tokyo-itinerary.md",
-                "initialChecked": false,
-                "raw": "Nakamise Shopping Street: Traditional snacks and souvenirs leading up to Senso-ji."
-              },
-              {
-                "id": "tokyo-tokyo-itinerary-8-akihabara-electric-town",
-                "name": "Akihabara Electric Town",
-                "description": "Hub for retro gaming, electronics, and anime culture.",
-                "section": "Day 2: Asakusa & Akihabara",
-                "file": "tokyo/tokyo-itinerary.md",
-                "initialChecked": false,
-                "raw": "Akihabara Electric Town: Hub for retro gaming, electronics, and anime culture."
-              },
-              {
-                "id": "tokyo-tokyo-itinerary-9-kanda-myojin-shrine",
-                "name": "Kanda Myojin Shrine",
-                "description": "Ancient shrine patron of Tokyo and tech gadgets.",
-                "section": "Day 2: Asakusa & Akihabara",
-                "file": "tokyo/tokyo-itinerary.md",
-                "initialChecked": false,
-                "raw": "Kanda Myojin Shrine: Ancient shrine patron of Tokyo and tech gadgets."
-              }
-            ]
-          }
-        ],
-        "items": [
-          {
-            "id": "tokyo-tokyo-itinerary-1-shibuya-crossing",
-            "name": "Shibuya Crossing",
-            "description": "The world's busiest pedestrian crossing outside Hachiko exit.",
-            "section": "Day 1: Shibuya & Shinjuku",
-            "file": "tokyo/tokyo-itinerary.md",
-            "initialChecked": false,
-            "raw": "Shibuya Crossing: The world's busiest pedestrian crossing outside Hachiko exit."
-          },
-          {
-            "id": "tokyo-tokyo-itinerary-2-shibuya-sky",
-            "name": "Shibuya Sky",
-            "description": "360-degree open-air observation deck on top of Scramble Square.",
-            "section": "Day 1: Shibuya & Shinjuku",
-            "file": "tokyo/tokyo-itinerary.md",
-            "initialChecked": false,
-            "raw": "Shibuya Sky: 360-degree open-air observation deck on top of Scramble Square."
-          },
-          {
-            "id": "tokyo-tokyo-itinerary-3-meiji-jingu",
-            "name": "Meiji Jingu",
-            "description": "Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya.",
-            "section": "Day 1: Shibuya & Shinjuku",
-            "file": "tokyo/tokyo-itinerary.md",
-            "initialChecked": false,
-            "raw": "Meiji Jingu: Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya."
-          },
-          {
-            "id": "tokyo-tokyo-itinerary-4-omoide-yokocho",
-            "name": "Omoide Yokocho",
-            "description": "Nostalgic narrow alleyway in Shinjuku with yakitori stalls.",
-            "section": "Day 1: Shibuya & Shinjuku",
-            "file": "tokyo/tokyo-itinerary.md",
-            "initialChecked": false,
-            "raw": "Omoide Yokocho: Nostalgic narrow alleyway in Shinjuku with yakitori stalls."
-          },
-          {
-            "id": "tokyo-tokyo-itinerary-5-tokyo-metropolitan-government-building",
-            "name": "Tokyo Metropolitan Government Building",
-            "description": "Free panoramic observatory on the 45th floor.",
-            "section": "Day 1: Shibuya & Shinjuku",
-            "file": "tokyo/tokyo-itinerary.md",
-            "initialChecked": false,
-            "raw": "Tokyo Metropolitan Government Building: Free panoramic observatory on the 45th floor."
-          },
-          {
-            "id": "tokyo-tokyo-itinerary-6-senso-ji-temple",
-            "name": "Senso-ji Temple",
-            "description": "Tokyo's oldest Buddhist temple in historic Asakusa.",
-            "section": "Day 2: Asakusa & Akihabara",
-            "file": "tokyo/tokyo-itinerary.md",
-            "initialChecked": false,
-            "raw": "Senso-ji Temple: Tokyo's oldest Buddhist temple in historic Asakusa."
-          },
-          {
-            "id": "tokyo-tokyo-itinerary-7-nakamise-shopping-street",
-            "name": "Nakamise Shopping Street",
-            "description": "Traditional snacks and souvenirs leading up to Senso-ji.",
-            "section": "Day 2: Asakusa & Akihabara",
-            "file": "tokyo/tokyo-itinerary.md",
-            "initialChecked": false,
-            "raw": "Nakamise Shopping Street: Traditional snacks and souvenirs leading up to Senso-ji."
-          },
-          {
-            "id": "tokyo-tokyo-itinerary-8-akihabara-electric-town",
-            "name": "Akihabara Electric Town",
-            "description": "Hub for retro gaming, electronics, and anime culture.",
-            "section": "Day 2: Asakusa & Akihabara",
-            "file": "tokyo/tokyo-itinerary.md",
-            "initialChecked": false,
-            "raw": "Akihabara Electric Town: Hub for retro gaming, electronics, and anime culture."
-          },
-          {
-            "id": "tokyo-tokyo-itinerary-9-kanda-myojin-shrine",
-            "name": "Kanda Myojin Shrine",
-            "description": "Ancient shrine patron of Tokyo and tech gadgets.",
-            "section": "Day 2: Asakusa & Akihabara",
-            "file": "tokyo/tokyo-itinerary.md",
-            "initialChecked": false,
-            "raw": "Kanda Myojin Shrine: Ancient shrine patron of Tokyo and tech gadgets."
-          }
-        ]
-      }
-    ],
-    "totalItems": 9,
-    "totalSections": 2,
-    "items": [
-      {
-        "id": "tokyo-tokyo-itinerary-1-shibuya-crossing",
-        "name": "Shibuya Crossing",
-        "description": "The world's busiest pedestrian crossing outside Hachiko exit.",
-        "section": "Day 1: Shibuya & Shinjuku",
-        "file": "tokyo/tokyo-itinerary.md",
-        "initialChecked": false,
-        "raw": "Shibuya Crossing: The world's busiest pedestrian crossing outside Hachiko exit."
-      },
-      {
-        "id": "tokyo-tokyo-itinerary-2-shibuya-sky",
-        "name": "Shibuya Sky",
-        "description": "360-degree open-air observation deck on top of Scramble Square.",
-        "section": "Day 1: Shibuya & Shinjuku",
-        "file": "tokyo/tokyo-itinerary.md",
-        "initialChecked": false,
-        "raw": "Shibuya Sky: 360-degree open-air observation deck on top of Scramble Square."
-      },
-      {
-        "id": "tokyo-tokyo-itinerary-3-meiji-jingu",
-        "name": "Meiji Jingu",
-        "description": "Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya.",
-        "section": "Day 1: Shibuya & Shinjuku",
-        "file": "tokyo/tokyo-itinerary.md",
-        "initialChecked": false,
-        "raw": "Meiji Jingu: Shinto shrine surrounded by a tranquil 170-acre forest in Shibuya."
-      },
-      {
-        "id": "tokyo-tokyo-itinerary-4-omoide-yokocho",
-        "name": "Omoide Yokocho",
-        "description": "Nostalgic narrow alleyway in Shinjuku with yakitori stalls.",
-        "section": "Day 1: Shibuya & Shinjuku",
-        "file": "tokyo/tokyo-itinerary.md",
-        "initialChecked": false,
-        "raw": "Omoide Yokocho: Nostalgic narrow alleyway in Shinjuku with yakitori stalls."
-      },
-      {
-        "id": "tokyo-tokyo-itinerary-5-tokyo-metropolitan-government-building",
-        "name": "Tokyo Metropolitan Government Building",
-        "description": "Free panoramic observatory on the 45th floor.",
-        "section": "Day 1: Shibuya & Shinjuku",
-        "file": "tokyo/tokyo-itinerary.md",
-        "initialChecked": false,
-        "raw": "Tokyo Metropolitan Government Building: Free panoramic observatory on the 45th floor."
-      },
-      {
-        "id": "tokyo-tokyo-itinerary-6-senso-ji-temple",
-        "name": "Senso-ji Temple",
-        "description": "Tokyo's oldest Buddhist temple in historic Asakusa.",
-        "section": "Day 2: Asakusa & Akihabara",
-        "file": "tokyo/tokyo-itinerary.md",
-        "initialChecked": false,
-        "raw": "Senso-ji Temple: Tokyo's oldest Buddhist temple in historic Asakusa."
-      },
-      {
-        "id": "tokyo-tokyo-itinerary-7-nakamise-shopping-street",
-        "name": "Nakamise Shopping Street",
-        "description": "Traditional snacks and souvenirs leading up to Senso-ji.",
-        "section": "Day 2: Asakusa & Akihabara",
-        "file": "tokyo/tokyo-itinerary.md",
-        "initialChecked": false,
-        "raw": "Nakamise Shopping Street: Traditional snacks and souvenirs leading up to Senso-ji."
-      },
-      {
-        "id": "tokyo-tokyo-itinerary-8-akihabara-electric-town",
-        "name": "Akihabara Electric Town",
-        "description": "Hub for retro gaming, electronics, and anime culture.",
-        "section": "Day 2: Asakusa & Akihabara",
-        "file": "tokyo/tokyo-itinerary.md",
-        "initialChecked": false,
-        "raw": "Akihabara Electric Town: Hub for retro gaming, electronics, and anime culture."
-      },
-      {
-        "id": "tokyo-tokyo-itinerary-9-kanda-myojin-shrine",
-        "name": "Kanda Myojin Shrine",
-        "description": "Ancient shrine patron of Tokyo and tech gadgets.",
-        "section": "Day 2: Asakusa & Akihabara",
-        "file": "tokyo/tokyo-itinerary.md",
-        "initialChecked": false,
-        "raw": "Kanda Myojin Shrine: Ancient shrine patron of Tokyo and tech gadgets."
       }
     ]
   }

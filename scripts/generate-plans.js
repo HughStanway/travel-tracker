@@ -26,6 +26,20 @@ function cleanTitle(str) {
     .join(' ');
 }
 
+function stripMarkdown(text) {
+  if (!text) return '';
+  return text
+    .replace(/\*\*(.*?)\*\*/g, '$1')
+    .replace(/__(.*?)__/g, '$1')
+    .replace(/\*(.*?)\*/g, '$1')
+    .replace(/_(.*?)_/g, '$1')
+    .replace(/~~(.*?)~~/g, '$1')
+    .replace(/`([^`]+)`/g, '$1')
+    .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1')
+    .replace(/<[^>]*>/g, '')
+    .trim();
+}
+
 function parseMarkdownFile(filePath, planId, relativeFile) {
   const content = fs.readFileSync(filePath, 'utf-8');
   const lines = content.split('\n');
@@ -93,15 +107,23 @@ function parseMarkdownFile(filePath, planId, relativeFile) {
       let name = itemText;
       let description = '';
 
-      // Check if there is a colon separating name from description (e.g. "One World Trade Center: Landmark skyscraper...")
-      const colonIndex = itemText.indexOf(':');
-      if (colonIndex > 0 && colonIndex < itemText.length - 1) {
-        name = itemText.substring(0, colonIndex).trim();
-        description = itemText.substring(colonIndex + 1).trim();
+      // Check if bold/italic colon pattern exists, e.g. **Name:** or **Name**: or *Name:* or *Name*:
+      const styledColonMatch = itemText.match(/^(\*{1,2}|_{1,2})(.*?)(?::\1|\1:)\s*(.*)$/);
+      if (styledColonMatch) {
+        const delimiter = styledColonMatch[1];
+        name = `${delimiter}${styledColonMatch[2]}${delimiter}`;
+        description = styledColonMatch[3].trim();
+      } else {
+        const colonIndex = itemText.indexOf(':');
+        if (colonIndex > 0 && colonIndex < itemText.length - 1) {
+          name = itemText.substring(0, colonIndex).trim();
+          description = itemText.substring(colonIndex + 1).trim();
+        }
       }
 
-      // Generate a stable item ID
-      const baseSlug = name.toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 40);
+      // Generate a stable item ID using plain stripped name
+      const cleanName = stripMarkdown(name);
+      const baseSlug = cleanName.toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 40);
       const itemId = `${planId}-${path.basename(relativeFile, '.md')}-${itemCounter++}-${baseSlug}`;
 
       const itemObj = {

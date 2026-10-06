@@ -4,6 +4,7 @@ import { ItemCard } from './ItemCard';
 import { StatsBar } from './StatsBar';
 import { MarkdownViewer } from './MarkdownViewer';
 import { FileText, Layers, MapPin, Sparkles, Folder } from 'lucide-react';
+import { renderInlineMarkdown, stripMarkdown } from '../utils/markdown';
 
 interface PlanViewProps {
   plan: TravelPlan;
@@ -59,9 +60,9 @@ export const PlanView: React.FC<PlanViewProps> = ({
       // Search query filter
       if (searchQuery.trim()) {
         const query = searchQuery.toLowerCase();
-        const matchesName = item.name.toLowerCase().includes(query);
-        const matchesDesc = item.description.toLowerCase().includes(query);
-        const matchesSection = item.section.toLowerCase().includes(query);
+        const matchesName = item.name.toLowerCase().includes(query) || stripMarkdown(item.name).toLowerCase().includes(query);
+        const matchesDesc = item.description.toLowerCase().includes(query) || stripMarkdown(item.description).toLowerCase().includes(query);
+        const matchesSection = item.section.toLowerCase().includes(query) || stripMarkdown(item.section).toLowerCase().includes(query);
         if (!matchesName && !matchesDesc && !matchesSection) return false;
       }
 
@@ -224,7 +225,7 @@ export const PlanView: React.FC<PlanViewProps> = ({
                 <div className="flex items-center gap-2 pb-1 border-b border-slate-200 dark:border-slate-800">
                   <h3 className="font-bold text-base text-slate-900 dark:text-slate-100 flex items-center gap-2">
                     <span className="w-2 h-2 rounded-full bg-orange-400" />
-                    {secTitle}
+                    <span dangerouslySetInnerHTML={{ __html: renderInlineMarkdown(secTitle) }} />
                   </h3>
                   <span className="text-xs text-slate-400 dark:text-slate-500 font-medium">
                     ({secItems.length})

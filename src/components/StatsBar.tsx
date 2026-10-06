@@ -1,5 +1,6 @@
 import React from 'react';
 import { Search, LayoutGrid, FileText, CheckCircle2, RotateCcw } from 'lucide-react';
+import { stripMarkdown } from '../utils/markdown';
 
 interface StatsBarProps {
   totalItems: number;
@@ -160,7 +161,7 @@ export const StatsBar: React.FC<StatsBarProps> = ({
               <option value="all">All Sections / Areas</option>
               {sections.map((s) => (
                 <option key={s} value={s}>
-                  {s}
+                  {stripMarkdown(s)}
                 </option>
               ))}
             </select>
