@@ -114,16 +114,17 @@ export const App: React.FC = () => {
         ) : (
           /* Destinations / Trips Dashboard */
           <div className="space-y-8">
-            <div className="bg-gradient-to-r from-teal-800 to-slate-900 text-white rounded-3xl p-8 sm:p-12 shadow-xl relative overflow-hidden">
+            <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-3xl p-8 sm:p-12 shadow-xs relative overflow-hidden">
+              <div className="absolute right-0 top-0 translate-x-12 -translate-y-12 w-80 h-80 bg-orange-400/10 rounded-full blur-3xl pointer-events-none" />
               <div className="relative z-10 max-w-2xl">
-                <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-teal-500/20 text-teal-300 text-xs font-semibold mb-3 border border-teal-500/30">
-                  <Compass className="w-3.5 h-3.5 animate-spin" style={{ animationDuration: '8s' }} />
+                <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-orange-50 dark:bg-orange-950/60 text-orange-700 dark:text-orange-400 text-xs font-semibold mb-3 border border-orange-200/80 dark:border-orange-900/60">
+                  <Compass className="w-3.5 h-3.5 text-orange-500 animate-spin" style={{ animationDuration: '8s' }} />
                   Travel Tracker
                 </div>
-                <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight">
+                <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-slate-900 dark:text-white">
                   Your Travel Itineraries
                 </h1>
-                <p className="mt-3 text-sm sm:text-base text-teal-100/80 leading-relaxed">
+                <p className="mt-3 text-sm sm:text-base text-slate-600 dark:text-slate-400 leading-relaxed">
                   Fast, stateless travel companion dynamically generated from your markdown files.
                   Explore places, check off destinations, look up maps, and organize your trips.
                 </p>
@@ -134,7 +135,7 @@ export const App: React.FC = () => {
             <div>
               <div className="flex items-center justify-between mb-4">
                 <h2 className="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2">
-                  <Map className="w-5 h-5 text-teal-600" />
+                  <Map className="w-5 h-5 text-orange-500" />
                   Available Destinations ({plans.length})
                 </h2>
               </div>

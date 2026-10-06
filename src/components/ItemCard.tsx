@@ -32,8 +32,8 @@ export const ItemCard: React.FC<ItemCardProps> = ({
       onClick={() => onToggle(item.id)}
       className={`group relative rounded-xl border p-4 transition-all cursor-pointer select-none avoid-break-inside ${
         isChecked
-          ? 'bg-emerald-50/60 dark:bg-emerald-950/20 border-emerald-200 dark:border-emerald-800/60'
-          : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 hover:border-teal-300 dark:hover:border-teal-700 hover:shadow-sm'
+          ? 'bg-orange-50/40 dark:bg-orange-950/20 border-orange-200/80 dark:border-orange-800/60'
+          : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 hover:border-orange-300 dark:hover:border-orange-700 hover:shadow-xs'
       }`}
     >
       <div className="flex items-start gap-3">
@@ -50,8 +50,8 @@ export const ItemCard: React.FC<ItemCardProps> = ({
           }}
           className={`flex-shrink-0 w-6 h-6 rounded-lg mt-0.5 flex items-center justify-center border transition-all ${
             isChecked
-              ? 'bg-emerald-600 border-emerald-600 text-white shadow-sm shadow-emerald-500/20'
-              : 'border-slate-300 dark:border-slate-600 group-hover:border-teal-500 bg-slate-50 dark:bg-slate-800 text-transparent'
+              ? 'bg-orange-500 border-orange-500 text-white shadow-xs shadow-orange-500/20'
+              : 'border-slate-300 dark:border-slate-600 group-hover:border-orange-400 bg-slate-50 dark:bg-slate-800 text-transparent'
           }`}
         >
           <Check className="w-3.5 h-3.5 stroke-[3]" />
@@ -64,7 +64,7 @@ export const ItemCard: React.FC<ItemCardProps> = ({
               className={`text-sm font-semibold tracking-tight transition ${
                 isChecked
                   ? 'text-slate-500 dark:text-slate-400 line-through'
-                  : 'text-slate-900 dark:text-slate-100 group-hover:text-teal-600 dark:group-hover:text-teal-400'
+                  : 'text-slate-900 dark:text-slate-100 group-hover:text-orange-600 dark:group-hover:text-orange-400'
               }`}
             >
               {item.name}
@@ -79,7 +79,7 @@ export const ItemCard: React.FC<ItemCardProps> = ({
                 className="p-1 rounded text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition"
               >
                 {copied ? (
-                  <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
+                  <CheckCircle2 className="w-3.5 h-3.5 text-orange-600" />
                 ) : (
                   <Copy className="w-3.5 h-3.5" />
                 )}
@@ -90,7 +90,7 @@ export const ItemCard: React.FC<ItemCardProps> = ({
                 rel="noopener noreferrer"
                 onClick={(e) => e.stopPropagation()}
                 title="Search on Google Maps"
-                className="p-1 rounded text-slate-400 hover:text-teal-600 dark:hover:text-teal-400 hover:bg-slate-100 dark:hover:bg-slate-800 transition"
+                className="p-1 rounded text-slate-400 hover:text-orange-600 dark:hover:text-orange-400 hover:bg-slate-100 dark:hover:bg-slate-800 transition"
               >
                 <ExternalLink className="w-3.5 h-3.5" />
               </a>
@@ -115,7 +115,7 @@ export const ItemCard: React.FC<ItemCardProps> = ({
               {item.section}
             </span>
             {isChecked && (
-              <span className="text-[10px] font-semibold text-emerald-600 dark:text-emerald-400">
+              <span className="text-[10px] font-semibold text-orange-600 dark:text-orange-400">
                 Visited
               </span>
             )}

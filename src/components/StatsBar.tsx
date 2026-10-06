@@ -37,7 +37,7 @@ export const StatsBar: React.FC<StatsBarProps> = ({
       {/* Top Row: Progress Bar & Progress Stats */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
         <div className="flex items-center gap-3">
-          <div className="w-10 h-10 rounded-xl bg-teal-50 dark:bg-teal-950/50 text-teal-600 dark:text-teal-400 flex items-center justify-center font-bold text-sm">
+          <div className="w-10 h-10 rounded-xl bg-orange-50 dark:bg-orange-950/50 text-orange-600 dark:text-orange-400 border border-orange-200/60 dark:border-orange-900/60 flex items-center justify-center font-bold text-sm">
             {percent}%
           </div>
           <div>
@@ -52,7 +52,7 @@ export const StatsBar: React.FC<StatsBarProps> = ({
             {/* Progress line */}
             <div className="w-48 sm:w-64 h-2 bg-slate-100 dark:bg-slate-800 rounded-full overflow-hidden mt-1.5">
               <div
-                className="h-full bg-gradient-to-r from-teal-500 to-emerald-500 rounded-full transition-all duration-300"
+                className="h-full bg-gradient-to-r from-orange-400 to-amber-400 rounded-full transition-all duration-300"
                 style={{ width: `${percent}%` }}
               />
             </div>
@@ -77,7 +77,7 @@ export const StatsBar: React.FC<StatsBarProps> = ({
               onClick={() => onViewModeChange('cards')}
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition ${
                 viewMode === 'cards'
-                  ? 'bg-white dark:bg-slate-900 text-teal-700 dark:text-teal-300 shadow-xs'
+                  ? 'bg-white dark:bg-slate-900 text-orange-700 dark:text-orange-300 shadow-xs'
                   : 'text-slate-500 dark:text-slate-400 hover:text-slate-800 dark:hover:text-slate-200'
               }`}
             >
@@ -88,7 +88,7 @@ export const StatsBar: React.FC<StatsBarProps> = ({
               onClick={() => onViewModeChange('markdown')}
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition ${
                 viewMode === 'markdown'
-                  ? 'bg-white dark:bg-slate-900 text-teal-700 dark:text-teal-300 shadow-xs'
+                  ? 'bg-white dark:bg-slate-900 text-orange-700 dark:text-orange-300 shadow-xs'
                   : 'text-slate-500 dark:text-slate-400 hover:text-slate-800 dark:hover:text-slate-200'
               }`}
             >
@@ -110,7 +110,7 @@ export const StatsBar: React.FC<StatsBarProps> = ({
               value={searchQuery}
               onChange={(e) => onSearchChange(e.target.value)}
               placeholder="Search spots, landmarks, notes..."
-              className="w-full text-xs pl-9 pr-3 py-2 bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700/80 rounded-xl focus:ring-2 focus:ring-teal-500 focus:outline-none placeholder:text-slate-400 text-slate-800 dark:text-slate-200"
+              className="w-full text-xs pl-9 pr-3 py-2 bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700/80 rounded-xl focus:ring-2 focus:ring-orange-400 focus:outline-none placeholder:text-slate-400 text-slate-800 dark:text-slate-200"
             />
           </div>
 
@@ -130,7 +130,7 @@ export const StatsBar: React.FC<StatsBarProps> = ({
               onClick={() => onStatusFilterChange('unvisited')}
               className={`px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition ${
                 statusFilter === 'unvisited'
-                  ? 'bg-teal-600 text-white'
+                  ? 'bg-orange-500 text-white'
                   : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'
               }`}
             >
@@ -140,7 +140,7 @@ export const StatsBar: React.FC<StatsBarProps> = ({
               onClick={() => onStatusFilterChange('visited')}
               className={`flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-semibold whitespace-nowrap transition ${
                 statusFilter === 'visited'
-                  ? 'bg-emerald-600 text-white'
+                  ? 'bg-orange-600 text-white'
                   : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'
               }`}
             >
@@ -155,7 +155,7 @@ export const StatsBar: React.FC<StatsBarProps> = ({
               aria-label="Filter by neighborhood or section"
               value={sectionFilter}
               onChange={(e) => onSectionFilterChange(e.target.value)}
-              className="w-full text-xs py-2 px-3 bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700/80 rounded-xl focus:ring-2 focus:ring-teal-500 focus:outline-none text-slate-700 dark:text-slate-300"
+              className="w-full text-xs py-2 px-3 bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700/80 rounded-xl focus:ring-2 focus:ring-orange-400 focus:outline-none text-slate-700 dark:text-slate-300"
             >
               <option value="all">All Sections / Areas</option>
               {sections.map((s) => (

@@ -103,18 +103,18 @@ export const PlanView: React.FC<PlanViewProps> = ({
   return (
     <div className="space-y-6">
       {/* Plan Header */}
-      <div className="bg-gradient-to-br from-teal-900 to-slate-900 text-white rounded-3xl p-6 sm:p-8 shadow-xl relative overflow-hidden">
-        <div className="absolute right-0 top-0 translate-x-8 -translate-y-8 w-64 h-64 bg-teal-500/10 rounded-full blur-3xl pointer-events-none" />
+      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-3xl p-6 sm:p-8 shadow-xs relative overflow-hidden">
+        <div className="absolute right-0 top-0 translate-x-8 -translate-y-8 w-64 h-64 bg-orange-400/10 rounded-full blur-3xl pointer-events-none" />
         <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-4">
           <div>
-            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-teal-500/20 text-teal-300 text-xs font-semibold mb-3 border border-teal-500/30">
-              <MapPin className="w-3 h-3" />
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-orange-50 dark:bg-orange-950/60 text-orange-700 dark:text-orange-400 text-xs font-semibold mb-3 border border-orange-200/80 dark:border-orange-900/60">
+              <MapPin className="w-3 h-3 text-orange-500" />
               Travel Plan
             </div>
-            <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight">
+            <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight text-slate-900 dark:text-white">
               {plan.title}
             </h1>
-            <p className="text-teal-100/70 text-xs sm:text-sm mt-1.5 flex items-center gap-3">
+            <p className="text-slate-500 dark:text-slate-400 text-xs sm:text-sm mt-1.5 flex items-center gap-3">
               <span>{plan.files.length} document{plan.files.length > 1 ? 's' : ''}</span>
               <span>•</span>
               <span>{plan.totalItems} places / activities</span>
@@ -124,11 +124,11 @@ export const PlanView: React.FC<PlanViewProps> = ({
           </div>
 
           {/* Quick file stats info */}
-          <div className="flex items-center gap-2 bg-white/5 border border-white/10 rounded-2xl p-3 backdrop-blur-xs">
-            <Folder className="w-5 h-5 text-teal-400" />
+          <div className="flex items-center gap-2 bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700/80 rounded-2xl p-3">
+            <Folder className="w-5 h-5 text-orange-500" />
             <div className="text-xs">
-              <div className="text-white/60">Source Folder</div>
-              <div className="font-mono font-bold text-white">itinery/{plan.folder}</div>
+              <div className="text-slate-400 dark:text-slate-500">Source Folder</div>
+              <div className="font-mono font-bold text-slate-800 dark:text-slate-200">itinery/{plan.folder}</div>
             </div>
           </div>
         </div>
@@ -145,7 +145,7 @@ export const PlanView: React.FC<PlanViewProps> = ({
               }}
               className={`flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-semibold whitespace-nowrap transition ${
                 activeFileKey === 'all'
-                  ? 'bg-teal-600 text-white shadow-md shadow-teal-500/20'
+                  ? 'bg-orange-500 text-white shadow-xs shadow-orange-500/20'
                   : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-800'
               }`}
             >
@@ -162,7 +162,7 @@ export const PlanView: React.FC<PlanViewProps> = ({
                 }}
                 className={`flex items-center gap-2 px-4 py-2 rounded-xl text-xs font-semibold whitespace-nowrap transition ${
                   activeFileKey === file.relativePath
-                    ? 'bg-teal-600 text-white shadow-md shadow-teal-500/20'
+                    ? 'bg-orange-500 text-white shadow-xs shadow-orange-500/20'
                     : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-800'
                 }`}
               >
@@ -213,7 +213,7 @@ export const PlanView: React.FC<PlanViewProps> = ({
                   setStatusFilter('all');
                   setSectionFilter('all');
                 }}
-                className="mt-4 px-4 py-2 rounded-xl bg-teal-600 text-white text-xs font-semibold hover:bg-teal-500 transition"
+                className="mt-4 px-4 py-2 rounded-xl bg-orange-500 text-white text-xs font-semibold hover:bg-orange-600 transition"
               >
                 Clear All Filters
               </button>
@@ -223,7 +223,7 @@ export const PlanView: React.FC<PlanViewProps> = ({
               <div key={secTitle} className="space-y-3">
                 <div className="flex items-center gap-2 pb-1 border-b border-slate-200 dark:border-slate-800">
                   <h3 className="font-bold text-base text-slate-900 dark:text-slate-100 flex items-center gap-2">
-                    <span className="w-2 h-2 rounded-full bg-teal-500" />
+                    <span className="w-2 h-2 rounded-full bg-orange-400" />
                     {secTitle}
                   </h3>
                   <span className="text-xs text-slate-400 dark:text-slate-500 font-medium">

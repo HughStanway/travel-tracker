@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply antialiased selection:bg-teal-500/20 selection:text-teal-700 dark:selection:bg-teal-500/30 dark:selection:text-teal-300;
+    @apply antialiased selection:bg-orange-500/20 selection:text-orange-700 dark:selection:bg-orange-500/30 dark:selection:text-orange-300;
   }
 }
 

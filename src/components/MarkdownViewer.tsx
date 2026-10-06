@@ -20,7 +20,7 @@ export const MarkdownViewer: React.FC<MarkdownViewerProps> = ({ content }) => {
         className="prose prose-slate dark:prose-invert max-w-none 
           prose-headings:font-bold prose-headings:tracking-tight 
           prose-h1:text-2xl prose-h1:border-b prose-h1:border-slate-200 dark:prose-h1:border-slate-800 prose-h1:pb-3
-          prose-h2:text-xl prose-h2:mt-8 prose-h2:text-teal-700 dark:prose-h2:text-teal-400
+          prose-h2:text-xl prose-h2:mt-8 prose-h2:text-orange-600 dark:prose-h2:text-orange-400
           prose-h3:text-lg
           prose-ul:my-4 prose-li:my-1.5 prose-li:text-sm prose-li:leading-relaxed
           prose-strong:text-slate-900 dark:prose-strong:text-slate-100"
